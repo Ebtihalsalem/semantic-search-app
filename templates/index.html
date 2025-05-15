@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>البحث الدلالي</title>
+</head>
+<body>
+  <h1>نظام البحث الذكي</h1>
+  <form method="post">
+    <input type="text" name="q" placeholder="ابحث بعنوان المشروع..." required>
+    <button type="submit">بحث</button>
+  </form>
+  {% if projects %}
+    <ul>
+    {% for p in projects %}
+      <li>
+        <strong>{{ p.title }}</strong><br>
+        الطلاب: {{ p.students }}<br>
+        المشرف: {{ p.supervisor }}<br>
+        القسم: {{ p.dept }}<br>
+        السنة: {{ p.year }}<br>
+        <a href="{{ p.link }}" target="_blank">تحميل PDF</a>
+      </li>
+    {% endfor %}
+    </ul>
+  {% endif %}
+</body>
+</html>

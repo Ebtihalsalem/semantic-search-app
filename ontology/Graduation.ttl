@@ -1,0 +1,961 @@
+@prefix gpo: <http://www.semanticweb.org/pc/ontologies/2025/3/Graduati_on_Projects_Ontology#> .
+
+gpo:File_10 a gpo:File ;
+    gpo:downloadLink "https://drive.google.com/file/d/1CNREK2O1GoPnpVnfsXaMopxJPEt4ZOU7/view?usp=drive_link" ;
+    gpo:isFinalFileOf gpo:Project_10 .
+
+gpo:File_11 a gpo:File ;
+    gpo:downloadLink "https://drive.google.com/file/d/1AEO7PwfuxgdIcmipP433tWOh7tK-TTzK/view?usp=drive_link" ;
+    gpo:isFinalFileOf gpo:Project_11 .
+
+gpo:آسية_علي_تنتون a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:worksOnProject gpo:Project_15 .
+
+gpo:آلاء_محمد_مليطان a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:worksOnProject gpo:Project_16 .
+
+gpo:آمنة_خالد_أحمد_خالد a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:worksOnProject gpo:Project_46 .
+
+gpo:آمنة_فتحي_الرحومة a gpo:Student ;
+    gpo:enrolledInDepartment gpo:هندسة_البرمجيات ;
+    gpo:worksOnProject gpo:Project_28 .
+
+gpo:آمنة_محمد_كريم a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:worksOnProject gpo:Project_21 .
+
+gpo:آية_محمد_فرعاس a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:worksOnProject gpo:Project_16 .
+
+gpo:أبوبكر_مصطفى_البيوضي a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:worksOnProject gpo:Project_19 .
+
+gpo:أحمد_جبريل_السريتي a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_المعلومات ;
+    gpo:worksOnProject gpo:Project_3 .
+
+gpo:أحمد_عبدالسلام_الظفير a gpo:Student ;
+    gpo:enrolledInDepartment gpo:هندسة_البرمجيات ;
+    gpo:worksOnProject gpo:Project_9 .
+
+gpo:أسامة_سليمان_قليوان a gpo:Student ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:worksOnProject gpo:Project_45 .
+
+gpo:أسيل_جمال_شعبان a gpo:Student ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:worksOnProject gpo:Project_8 .
+
+gpo:ألاء_نوري_الزواوي a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:worksOnProject gpo:Project_17 .
+
+gpo:أمنة_مصطفى_إبراهيم_الدبيبة a gpo:Student ;
+    gpo:enrolledInDepartment gpo:هندسة_البرمجيات ;
+    gpo:worksOnProject gpo:Project_52 .
+
+gpo:أية_بشير_أبو_حجر a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:worksOnProject gpo:Project_17 .
+
+gpo:أيمن_خالد_بادي a gpo:Student ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:worksOnProject gpo:Project_9 .
+
+gpo:إبتهال_عبدالسلام_التائب a gpo:Student ;
+    gpo:enrolledInDepartment gpo:الوسائط_المتعددة ;
+    gpo:worksOnProject gpo:Project_43 .
+
+gpo:إسراء_محمد_شلاك a gpo:Student ;
+    gpo:enrolledInDepartment gpo:هندسة_البرمجيات ;
+    gpo:worksOnProject gpo:Project_38 .
+
+gpo:إسراء_مصطفى_بن_وفاء a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:worksOnProject gpo:Project_42 .
+
+gpo:إفطيمة_محمد_بن_وفاء a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:worksOnProject gpo:Project_42 .
+
+gpo:ابتهال_مصطفى_زعبية a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:worksOnProject gpo:Project_16 .
+
+gpo:ابراهيم_عبدالعظيم_بالة a gpo:Student ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:worksOnProject gpo:Project_45 .
+
+gpo:بتول_محمد_سويسي a gpo:Student ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:worksOnProject gpo:Project_24 .
+
+gpo:بشرى_عبدالناصر_عوينة a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:worksOnProject gpo:Project_46 .
+
+gpo:بشرى_علي_سالم_لاغا a gpo:Student ;
+    gpo:enrolledInDepartment gpo:هندسة_البرمجيات ;
+    gpo:worksOnProject gpo:Project_52 .
+
+gpo:حسني_سعيد_المشهراوي a gpo:Student ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:worksOnProject gpo:Project_30 .
+
+gpo:حمزة_إبراهيم_عمر_حنيش a gpo:Student ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:worksOnProject gpo:Project_48 .
+
+gpo:حميدة_عبدالله_الشيخ a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:worksOnProject gpo:Project_22 .
+
+gpo:خديجة_محمد_اعنيبه a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:worksOnProject gpo:Project_23 .
+
+gpo:خلود_عبدالله_الجبالي a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:worksOnProject gpo:Project_22 .
+
+gpo:دنيا_على_الزليطني a gpo:Student ;
+    gpo:enrolledInDepartment gpo:هندسة_البرمجيات ;
+    gpo:worksOnProject gpo:Project_39 .
+
+gpo:ربيعة_صالح_عباس a gpo:Student ;
+    gpo:enrolledInDepartment gpo:هندسة_البرمجيات ;
+    gpo:worksOnProject gpo:Project_28 .
+
+gpo:رجاء_محمد_أبوشناف a gpo:Student ;
+    gpo:enrolledInDepartment gpo:هندسة_البرمجيات ;
+    gpo:worksOnProject gpo:Project_38 .
+
+gpo:رغد_جمال_البرقلي a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:worksOnProject gpo:Project_13 .
+
+gpo:رغد_محمد_الصديق_المصراتي a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:worksOnProject gpo:Project_20 .
+
+gpo:رمضان_غيث_أبورزيزة a gpo:Student ;
+    gpo:enrolledInDepartment gpo:الشبكات_والاتصالات ;
+    gpo:worksOnProject gpo:Project_11 .
+
+gpo:ريما_جمال_القويري a gpo:Student ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:worksOnProject gpo:Project_24 .
+
+gpo:زكريا_عبدالله_الضبع a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_المعلومات ;
+    gpo:worksOnProject gpo:Project_3 .
+
+gpo:سارة_أحمد_أبوشعالة a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:worksOnProject gpo:Project_13 .
+
+gpo:سالم_جمال_سالم_أبوفناس a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_المعلومات ;
+    gpo:worksOnProject gpo:Project_41 .
+
+gpo:سحر_امحمد_أبودبوس a gpo:Student ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:worksOnProject gpo:Project_8 .
+
+gpo:سفيان_علي_المجراب a gpo:Student ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:worksOnProject gpo:Project_1 .
+
+gpo:سلسبيل_سالم_سويب a gpo:Student ;
+    gpo:enrolledInDepartment gpo:هندسة_البرمجيات ;
+    gpo:worksOnProject gpo:Project_28 .
+
+gpo:سَليمه_مصطفى_بن_حميدة a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:worksOnProject gpo:Project_40 .
+
+gpo:شذى_عبدالله_عمر_عقوب a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:worksOnProject gpo:Project_4 .
+
+gpo:شيماء_عمر_الدعيكي a gpo:Student ;
+    gpo:enrolledInDepartment gpo:الشبكات_والاتصالات ;
+    gpo:worksOnProject gpo:Project_10 .
+
+gpo:صفاء_الصديق_صيدون a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:worksOnProject gpo:Project_17 .
+
+gpo:صفوان_عبدالسلام_السوقي a gpo:Student ;
+    gpo:enrolledInDepartment gpo:الوسائط_المتعددة ;
+    gpo:worksOnProject gpo:Project_51 .
+
+gpo:عائشة_سليمان_الكيلاني a gpo:Student ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:worksOnProject gpo:Project_32 .
+
+gpo:عائشة_فؤاد_فريوان a gpo:Student ;
+    gpo:enrolledInDepartment gpo:الشبكات_والاتصالات ;
+    gpo:worksOnProject gpo:Project_44 .
+
+gpo:عائشة_محمد_الجاهولي a gpo:Student ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:worksOnProject gpo:Project_18 .
+
+gpo:عائشة_مصطفى_نيبو a gpo:Student ;
+    gpo:enrolledInDepartment gpo:هندسة_البرمجيات ;
+    gpo:worksOnProject gpo:Project_37 .
+
+gpo:عافية_عبدالفادر_بن_عامر a gpo:Student ;
+    gpo:enrolledInDepartment gpo:هندسة_البرمجيات ;
+    gpo:worksOnProject gpo:Project_38 .
+
+gpo:عافيه_صالح_علي_بن_صالح a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:worksOnProject gpo:Project_49 .
+
+gpo:عبد_الرحمن_محمد_محمود_الاسطي a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_المعلومات ;
+    gpo:worksOnProject gpo:Project_29 .
+
+gpo:عبدالحفيظ_علي_عبدالحفيظ_اسماعيل a gpo:Student ;
+    gpo:enrolledInDepartment gpo:هندسة_البرمجيات ;
+    gpo:worksOnProject gpo:Project_47 .
+
+gpo:عبدالرحمن_محجوب_القبي a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_المعلومات ;
+    gpo:worksOnProject gpo:Project_50 .
+
+gpo:عبدالرحمن_محمد_خليل a gpo:Student ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:worksOnProject gpo:Project_30 .
+
+gpo:عبدالرحمن_مصباح_عبدالسلام_الصقلي a gpo:Student ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:worksOnProject gpo:Project_25 .
+
+gpo:عبدالعاطي_أبوبكر_أبوسكساكة a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_المعلومات ;
+    gpo:worksOnProject gpo:Project_50 .
+
+gpo:عبدالعزيز_عمر_عبدالعزيز_ناجي a gpo:Student ;
+    gpo:enrolledInDepartment gpo:الوسائط_المتعددة ;
+    gpo:worksOnProject gpo:Project_5 .
+
+gpo:عبدالله_حسين_سالم_الأسطى a gpo:Student ;
+    gpo:enrolledInDepartment gpo:هندسة_البرمجيات ;
+    gpo:worksOnProject gpo:Project_47 .
+
+gpo:عبدالله_فوزي_هب_الريح a gpo:Student ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:worksOnProject gpo:Project_2 .
+
+gpo:عبدالله_مصطفى_بن_سليم a gpo:Student ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:worksOnProject gpo:Project_26 .
+
+gpo:عبدالمجيد_الصديق_الأخطل a gpo:Student ;
+    gpo:enrolledInDepartment gpo:الشبكات_والاتصالات ;
+    gpo:worksOnProject gpo:Project_11 .
+
+gpo:علي_الحسين_الرقيق a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_المعلومات ;
+    gpo:worksOnProject gpo:Project_34 .
+
+gpo:علي_حسين_علي_الترجمان a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_المعلومات ;
+    gpo:worksOnProject gpo:Project_29 .
+
+gpo:علي_صالح_عقوب a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:worksOnProject gpo:Project_19 .
+
+gpo:علي_عبدالحليم_كبلان a gpo:Student ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:worksOnProject gpo:Project_6 .
+
+gpo:عمار_محمد_فضيل a gpo:Student ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:worksOnProject gpo:Project_33 .
+
+gpo:غادة_أحمد_النعاس a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:worksOnProject gpo:Project_18 .
+
+gpo:غفران_محمد_بن_صلاح a gpo:Student ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:worksOnProject gpo:Project_35 .
+
+gpo:فاطمة_محمد_المهمل a gpo:Student ;
+    gpo:enrolledInDepartment gpo:الوسائط_المتعددة ;
+    gpo:worksOnProject gpo:Project_43 .
+
+gpo:فراس_هشام_الدويني_القاضي a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:worksOnProject gpo:Project_27 .
+
+gpo:فطيمة_شعبان_حمودة a gpo:Student ;
+    gpo:enrolledInDepartment gpo:الوسائط_المتعددة ;
+    gpo:worksOnProject gpo:Project_12 .
+
+gpo:ليلى_عبدالناصر_الخشيف a gpo:Student ;
+    gpo:enrolledInDepartment gpo:الوسائط_المتعددة ;
+    gpo:worksOnProject gpo:Project_36 .
+
+gpo:مؤمن_عبدالله_الشيخ a gpo:Student ;
+    gpo:enrolledInDepartment gpo:هندسة_البرمجيات ;
+    gpo:worksOnProject gpo:Project_6 .
+
+gpo:مؤيد_علي_صافار a gpo:Student ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:worksOnProject gpo:Project_1 .
+
+gpo:ماريا_غصن_الكفري a gpo:Student ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:worksOnProject gpo:Project_8 .
+
+gpo:محمد_أحمد_الرعيض a gpo:Student ;
+    gpo:enrolledInDepartment gpo:الشبكات_والاتصالات ;
+    gpo:worksOnProject gpo:Project_7 .
+
+gpo:محمد_أحمد_غميم a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_المعلومات ;
+    gpo:worksOnProject gpo:Project_34 .
+
+gpo:محمد_الهادي_أبوشحمة a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_المعلومات ;
+    gpo:worksOnProject gpo:Project_50 .
+
+gpo:محمد_عبد_الباسط_الجمل a gpo:Student ;
+    gpo:enrolledInDepartment gpo:الشبكات_والاتصالات ;
+    gpo:worksOnProject gpo:Project_7 .
+
+gpo:محمد_فتحي_البرقلي a gpo:Student ;
+    gpo:enrolledInDepartment gpo:الشبكات_والاتصالات ;
+    gpo:worksOnProject gpo:Project_7 .
+
+gpo:محمد_فتحي_الجروشي a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:worksOnProject gpo:Project_14 .
+
+gpo:محمد_محمود_برق_الليل a gpo:Student ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:worksOnProject gpo:Project_31 .
+
+gpo:محمد_مفتاح_أبوشريقة a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_المعلومات ;
+    gpo:worksOnProject gpo:Project_3 .
+
+gpo:محمد_مفتاح_الهادي_الشاوش a gpo:Student ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:worksOnProject gpo:Project_25 .
+
+gpo:محمود_صالح_الجويعان a gpo:Student ;
+    gpo:enrolledInDepartment gpo:الوسائط_المتعددة ;
+    gpo:worksOnProject gpo:Project_51 .
+
+gpo:مروان_صالح_علي_اخلف a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_المعلومات ;
+    gpo:worksOnProject gpo:Project_41 .
+
+gpo:مصطفى_أحمد_المحجوب a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:worksOnProject gpo:Project_14 .
+
+gpo:ملاك_محمود_الجمل a gpo:Student ;
+    gpo:enrolledInDepartment gpo:الوسائط_المتعددة ;
+    gpo:worksOnProject gpo:Project_36 .
+
+gpo:منار_ارحيمه_عامر a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:worksOnProject gpo:Project_40 .
+
+gpo:مودة_السائح_أبوشعالة a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:worksOnProject gpo:Project_42 .
+
+gpo:نجوى_محمد_الصويعي a gpo:Student ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:worksOnProject gpo:Project_32 .
+
+gpo:نسرين_منصور_المنتصر a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:worksOnProject gpo:Project_23 .
+
+gpo:نصر_محمد_بن_نصر a gpo:Student ;
+    gpo:enrolledInDepartment gpo:الوسائط_المتعددة ;
+    gpo:worksOnProject gpo:Project_51 .
+
+gpo:نعيمة_صالح_علي_بن_صالح a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:worksOnProject gpo:Project_49 .
+
+gpo:نور_الدين_فتحي_حسين_السيد a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_المعلومات ;
+    gpo:worksOnProject gpo:Project_29 .
+
+gpo:هناء_العارف_مليطان a gpo:Student ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:worksOnProject gpo:Project_32 .
+
+gpo:وفاء_أحمد_حامد a gpo:Student ;
+    gpo:enrolledInDepartment gpo:الوسائط_المتعددة ;
+    gpo:worksOnProject gpo:Project_12 .
+
+gpo:ياسر_عمر_ارفيدة a gpo:Student ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:worksOnProject gpo:Project_31 .
+
+gpo:ياسين_احمد_منصور_الشين a gpo:Student ;
+    gpo:enrolledInDepartment gpo:نظم_المعلومات ;
+    gpo:worksOnProject gpo:Project_41 .
+
+gpo:Project_15 a gpo:Project ;
+    gpo:abstract """كلمات السر النصية دائما ما تواجه مشاكل كبيرة من حيث الأمان إذا كانت قصيرة وإذا كانت طويلة فتكون صعبة على المستخدم أن يتذكرها ومن هنا جاءت كلمات السر الرسومية Graphic password كأحد الحلول حيث تعتمد على صور يقوم المستخدم برسمها أو يختارها ككلمة للسر حيث هناك دراسات سابقة توضح أن الإنسان من الصعب أن ينسى شيء قام بعمله بيده.
+وGraphic Password يعتمد على نوعين: نوع يعتمد على التعرف والآخر على إعادة الرسم.
+ونحن اخترنا طريقة المعتمدة على التعرف. حيث ستستخدم طريقة الرسم عند تسجيل كلمة السر لمرة واحدة وذلك باستخدام طريقتين:
+الأولى: الرسم على الورق ومن ثم مسح هذه الورقة ضوئيا وإرسالها إلى النظام.
+الثانية: استخدام الرسم على الورق واستعمال الكاميرا لجهاز لإرسالها إلى النظام.
+وذلك من خلال إجراء مقارنة من ناحية الزمن المستغرق في عملية التسجيل لكلا الطريقتين ومن ثم إيجاد أسرع وأفضل طريقة وسيتم ذلك من خلال استبيان يقوم به المستخدمين وأيضا عملية حساب الوقت سيتم داخل النظام نفسه.
+وذلك بتصميم موقع إلكتروني يحتوي على الطريقتين ومن ثم تخزين النتائج في قاعدة بيانات الموقع.
+والنتيجة التي تحصلنا عليها بعد هذه الدراسة أن طريقة الكاميرا أفضل من الماسح الضوئي من حيث سرعة الوقت.
+"""@ar ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:isSupervisedBySupervisor gpo:د._سالم_السيوي ;
+    gpo:projectName "A Study for Calculating the Time When Using the Graphic Password Method (Hand Drawing) For the Internet Websites Registration  " .
+
+gpo:Project_2 a gpo:Project ;
+    gpo:abstract """أدى الإنتشار الواسع لمنصات التواصل الإجتماعي إلى جعل العديد من المستخدمين يعبرون عن أفكارهم ومشاعرهم فيها حول مختلف المنتجات والآراء المطروحة، وهذا بدوره سبّب في تراكم البيانات النصية مما جعل العديد من الباحثين يتجهون إلى مجال معالجة اللغات الطبيعية لتحليل هذه البيانات إلى معلومات مفيدة يمكن استخدامها في اتخاذ القرارات، ويعتبر مجال تحليل المشاعر أو كما يسميه البعض تعدين الرأي أحد فروع مجال معالجة اللغات الطبيعية، حيث يركز هذا الفرع على تحليل النص المكتوب وتصنيفه إلى إيجابي أو سلبي أو محايد ،فقد كانت أغلب الأبحاث في هذا المجال قائمة على تحليل اللغة الإنجليزية نظرا لحداثتها وسهولة تراكيب جملها، وبسبب هذا بدأت الأبحاث في اللغة العربية بالظهور مؤخراً. ولكن وجد الباحثون أن اللغة تعتبر تحديا في هذا المجال نظرا لصعوبتها من حيث تراكيب الجمل والقواعد النحوية وبالأخص اللهجات العربية حيث أنها تختلف من بلد إلى آخر بسبب تعدد اللهجات، وتعتبر الأبحاث في اللهجة الليبية بشكل خاص قليلة جدا بسبب قلة الباحثين في هذا المجال، ولذلك بحثت هذه الدراسة في تحليل النصوص المكتوبة باللهجة الليبية وبالأخص في الشعر الشعبي لمدينة مصراتة باستخدام أربع خوارزميات للتعلم الآلي وهي ,LR ,NB ,SVM,RF، فتم استخدام بيانات مجمعة مسبقا من قبل دراسة أخرى لتنفيذ أربع تجارب بالإضافة إلى مجموعة من التقنيات التي تساعد في تحسين هذه الخوارزميات مثل Hyperparameter tuning, Under-sampling,
+TF-IDF with Features Manual,فكانت التجربة الأولى تدرس تأثير تقنية Stemming مع
+Stopwords Removal على أداء الخوارزميات، والتجربة الثانية تدرس تأثير استخدام نفس التقنية بدون
+Stopwords Removal ، وكانت التجربة الثالثة تبحث في تأثير استخدام تقنية Lemmatization مع 
+Stopwords Removal ، والتجربة الرابعة تبحث في تأثير استخدام نفس التقنية بدون Stopwords Removal، حيث أظهرت نتائج التجربة الرابعة أعلى نتيجة مقارنة بالتجارب الأخرى، فقد وصلت دقة خوارزميةLR إلى %72.24 بينما خوارزمية SVM وصلت إلى ،%72.22 والمثير للإهتمام أن عملية Hyperparameter tuning أدت إلى تحسين أداء الخوارزميات بشكل كبير، بينما عملية TF-IDF with Features Manual لم يكن لها أي تأثير على دقتهن، وفي الجانب المقابل كان لتقنيتي Stopwords Removal و Under-sampling تأثير سلبي على أداء هذه الخوارزميات، وتعتبر نتائج هذه الدراسة جيدة جدا مقارنة بالدراسة التي جمعت البيانات، فقد كانت أفضل نتيجة لتلك الدراسة هي %69 لخوارزمية NB، بينما أفضل نتيجة توصلت لها هذه الدراسة هي %72.24 باستخدام خوارزمية LR.
+
+"""@ar ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:isSupervisedBySupervisor gpo:د._مصطفى_أبوزريدة ;
+    gpo:projectName "Sentiment Analysis of Libyan Dialect Using Machine Learning Techniques" .
+
+gpo:Project_20 a gpo:Project ;
+    gpo:abstract """تتلخص فكرة المشروع في أهمية التعليم الإلكتروني لذوي الاحتياجات الخاصة حيث أن هو أحد الوسائل التعليمية التي تعتمد على الوسائط الالكترونية لإتاحة المعرفة للذين ينتشرون خارج القاعات الدراسية.
+واستخدام هذه التقنية بجميع أنواعها في ايصال المعلومة للمتعلم بأقصر وقت وأقل جهد وأكبر فائدة وسد النقص في أعضاء هيئة التدريس والمدربين المؤهلين في بعض المجالات وتلاشي ضعف الإمكانيات والإسهام  في رفع المستوى الثقافي والعلمي والاجتماعي لدى افراد المجتمع.
+ولقد فتحت اَمالا وتطلعات نحو المستقبل المشرق والمضيء لذوي الاحتياجات الخاصة من خلال التعامل مع هذه التقنية الحديثة لأهداف عديده تعود عليهم بنفع وتجعلهم مبدعين ومتألقين في التعامل مع أسرارها. 
+وهناك أهداف عدة  منها تنمية قدرات الاحتياجات الخاصة والمساعده على التفكير والاستنباط وتنمية قدراتهم العقلية و مساعدتهم على الميل الإيجابي نحو تقنية المعلومات بصفه عامه وأيضا الألعاب والرسومات المتحركة بما تحتوي من مواد سمعية وبصرية ، وسيلة فعاله لجعل الطفل سريع الأستجابه.
+جاءت فكرة المشروع وهو موقع لتعليم النطق لفئة زارعي القوقعه، والذي استهدف عينه من مركز الفصاحة والمستشفى المركزي مصراته قسم الأنف والأذن والحنجرة في وحدة التأهيل والتخاطب.
+حيث تم الدمج بين التدريبات والالعاب التفاعلية لتأهيل الطفل و مساعدتة  على تعلم النطق حيث أن النطق وسيلة أساسية للتعبير عن النفس. بحيث تم تصميمه بطريقة جذابة وبسيطة لمساعدة الأهل لتعليم أطفالهم في المنزل بسهوله ومتعه من خلال تفاعل الأطفال مع أهلهم في الموقع.
+وخلال الأستبيان والملاحظه  تبين ان  الأهل يستخدم التطبيقات التعليمية  لتعليم  اطفالهم و أن الألعاب تأخذ  فترة تعلم طويلة  تختلف حسب قدارت الطفل وكثافة البرامج التأهيليه تعتمد عليها سرعة الاستجابة للأطفال ،ويفضل دمج اللغة العربية مع اللغة الدارجه حتي لا يحدث للطفل تشتت وعدم الفهم وان التعليم الإلكتروني يكون في بيئة متمازجة مع التقليدي.
+"""@ar ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:isSupervisedBySupervisor gpo:أ.__أمل_فرج_الرمالي ;
+    gpo:projectName "موقع لتعليم النطق لفئة زارعي القوقعة" .
+
+gpo:Project_21 a gpo:Project ;
+    gpo:abstract "تشكل كثرة الانتحالات العلمية عائقاً كبيراً أمام كتابة المشاريع والأوراق البحثية بطريقة صحيحة، لأنها أصبحت ظاهرة منتشرة وخاصة في مشاريع التخرج والتي يمكن أن تكون فيها عملية الانتحال عن طريق النسخ واللصق من مواقع الإنترنت أو من مشاريع تخرج سابقة من دون التغيير فيها، ولمحاولة التقليل من عمليات الانتحال من مشاريع التخرج السابقة جاءت فكرة هذا المشروع الذي يهدف إلى بناء نظام يقوم بمقارنة مشروعين أو عدة مشاريع مع بعضها لاستخراج نسبة التشابه بينها. حيث تم استخدام خوارزمية لمقارنة وحساب نسبة التشابه بين المشاريع و هذه الخوارزمية تعتمد على فكرة عمل الطابور ولكن بطريقة معدلة ، حيث يتم قراءة جملة من الملف الأصلي وجملة من الملف المراد مقارنته بنفس عدد الكلمات ، وبعد ذلك تتم الإزاحة بمقدار كلمة من الملف المراد مقارنته وتتم إجراء عملية المقارنة مرة أخرى، و توضح النتائج التي تم الوصول إليها قدرة النظام على مقارنة المشاريع وحساب نسبة التشابه بينهما وذلك عن طريق استخدام خوارزمية الطابور المعدل."@ar ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:isSupervisedBySupervisor gpo:د._أحمد_أبوغرسة ;
+    gpo:projectName "كشف الانتحال في مشاريع التخرج" .
+
+gpo:Project_26 a gpo:Project ;
+    gpo:abstract "في هذا البحث، تم تطوير متجر إلكتروني متخصص في بيع المعدات الطبية بهدف تحسين تجربة التسوق الإلكتروني وزيادة كفاءة العمليات التجارية. وقد تم استخدام تقنيات التنقيب في البيانات، من خلال تطبيق خوارزميتي Apriori و AprioriTid لتحليل البيانات وتقديم توصيات مخصصة للعملاء. بدأت الدراسة بتحليل المتطلبات وتصميم الواجهات وتطوير الموقع الإلكتروني باستخدام أدوات مثل Dart و Flutter و Firebase. بالإضافة إلى ذلك، تم تنفيذ خوارزميتي التنقيب واختبار أدائهما على مجموعة بيانات تجريبية. أظهرت النتائج أن خوارزمية AprioriTid كانت أسرع وأكثر كفاءة في معالجة البيانات واستخراج القواعد الترابطية مقارنة بالخوارزمية التقليدية. تضمن البحث أيضاً مناقشة التحديات التي تمت مواجهتها والحلول المقترحة، بالإضافة إلى اقتراحات لتحسين النظام في المستقبل."@ar ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:isSupervisedBySupervisor gpo:أ._أفراح_رمضان_شعيب ;
+    gpo:projectName "إنشاء منصة تجارة إلكترونية للمعدات الطبية مع استخدام تقنيات التنقيب في البيانات" .
+
+gpo:Project_27 a gpo:Project ;
+    gpo:abstract """تركز الدراسة على تحليل وتصميم موقع دورات تدريبية، باستخدام نهج تطوير تطبيقات الويب التقدمية (PWA). ويسلط الضوء على استخدام واجهة المستخدم الأمامية Gatsby مع نظام Headless WordPress CMS، ونشرهما في بيئة حقيقية على خادم سحابي، مع الاعتماد على أداة Jenkins لأتمتة عملية التحديث ونشر الموقع.
+تعتمد الدراسة على منهجية التطوير السريع لتطبيقات الويب، تم تحديد المشكلة والأهداف، ومراجعة الأدبيات السابقة، وتحليل وتصميم التطبيقات، واختيار التقنيات المناسبة مثل Service Workers و Web App Manifests، وتنفيذها وتقييمها، وتحليل النتائج واستنتاجاتها.
+تأتي أهمية هذه الدراسة من تسليط الضوء على التطورات المتقدمة في تحليل وتصميم تطبيقات الويب الحديثة باستخدام تقنيات مبتكرة مثل PWA و Headless CMS و Jamstack، وتركز بشكل خاص على تحسين تجربة المستخدم وأداء المواقع على الإنترنت من خلال ضمان عمل جميع الوظائف بدون اتصال بالإنترنت. وقد تم تقييم أداء الموقع من حيث السرعة والاستجابة والتفاعلية، من خلال النتائج تم ملاحظة تحسنًا واضحًا في أداء الزيارات المتكررة للموقع مقارنة بالزيارات الأولى، ويرجع ذلك جزئيًا إلى استراتيجية التخزين المؤقت التي يعتمدها عامل الخدمة.
+"""@ar ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:isSupervisedBySupervisor gpo:أ._يوسف_عبدالرحمن_أبوراوي ;
+    gpo:projectName "استخدام نهج تطبيقات الويب التقدمية (Progressive Web Application/PWA)" .
+
+gpo:Project_33 a gpo:Project ;
+    gpo:abstract """مراجعة الشفرة المصدرية هي مرحلة تصميم البرمجيات تعتبر من أهم المراحل، بل ومن أولويات أي شركة للبرمجيات، وذلك لتقليل من الأخطاء البرمجية والثغرات الأمنية وبالتالي التقليل من الخسائر الناجمة عن أخطاء التصميم.
+هنا تظهر أهمية مراجعة وتدقيق الشفرة المصدرية قبل إطلاق المنتج. حيث إن أغلب الثغرات المصدرية للبرمجيات تتكون من الاف الأسطر التي يصعب مراجعتها بطريقة يدوية يتم استخدام أدوات اختبار أمان التطبيقات الثابتة (SAST) في عملية مراجعة الشفرة المصدرية والتي تعمل على تحليل الكود دون الحاجة إلى تنفيذه وقبل الإطلاق.
+هنا يكمن التحدي والصعوبة، قد توفر أدوات اختبار أمان التطبيقات الثابتة نتائج غير كاملة، وهذا يعني إما أنها لا تكتشف الثغرات الأمنية الموجودة، أو تُظهر تنبيهاً بوجود ثغرة أمنية على الرغم من عدم وجودها وهو ما يسمى بالإنذار الكاذب.
+هذا المشروع هو دراسة مقارنة لأفضل أدوات اختبار أمان التطبيقات الثابتة المتاحة، حيث يتم تطبيق هذه الأدوات على الشفرة المصدرية لمشاريع عدد من الطلاب بالكلية، وكذلك تم تطبيق هذه الأدوات على بعض الثغرات المصدرية التي تم تحميلها من الشبكة العنكبوتية والتي تحتوي على بعض نقاط الضعف. في هذا المشروع تم مقارنة نتائج التحليل اليدوي لهذه الشفرات المصدرية مع نتائج تحليل أدوات اختبار أمان التطبيقات الثابتة لنفس الشفرات المصدرية. كذلك تم مقارنة النتائج النهائية بنتائج الدراسات السابقة.
+أثبتت نتائج البحث فعالية أدوات اختبار أمان التطبيقات الثابتة في اكتشاف نقاط الضعف الحرجة، كما أظهرت النتائج أن أفضل أداة في استكشاف الثغرات هي أداة (ShiftLeft). ووجد أن 52.94 % من الثغرات الأمنية هي على الترتيب : - البرمجة النصية عبر المواقع (XSS)، حقن الاستعلام / NoSQL SQL ، تزوير الطلب من جانب الخادم (SSRF)).
+الكلمات الرئيسية: مراجعة الكود، أدوات SAST، الثغرات الأمنية، OWASP، تطبيق الويب.
+"""@ar ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:isSupervisedBySupervisor gpo:د._علي_الروياتي ;
+    gpo:projectName """SAST Tools for Web Applications Security Assessment:  
+A Comparative Study""" .
+
+gpo:Project_35 a gpo:Project ;
+    gpo:abstract """تشمل كلمات المرور النصية دائما ما تواجه مشاكلات كبيرة من حيث الأمان إذا كانت قصيرة ويصعب تذكرها إذا كانت طويلة، ومن هنا جاءت فكرة كلمة المرور الرسومية كأحد الحلول.
+حيث تعتمد كلمات المرور الرسومية على صور يقوم المستخدم برسمها أو يختارها ككلمة مرور خاصة به، حيث هناك دراسات سابقة توضح أن الإنسان من الصعب أن ينسى شيء قام بعمله بيده.
+Graphic password يعتمد على نوعين: نوع يعتمد على التعرف والآخر على إعادة الرسم (الاستدعاء) وفي هذه الدراسة تم تطبيق الطريقة المعتمدة على التعرف حيث تم استخدام طريقة الاختيار عند تسجيل كلمة السر لمرة واحدة وذلك باختيار أربعة صور مقسم علي أربعة مراحل في كل مرحلة يتم اختيار صورة واحدة فقط، وتم تنفيذ خوارزمية التشفير MD5 على الرمز الخاص لكل صورة وبالتالي فإنها تُخزّن مشفرة في قاعدة بيانات النظام بشكل نهائي وتكون غير قابلة للاختراق والعرضة للهجمات brute force ، بالإضافة إلى ذلك سيتم حساب الوقت المستغرق في عملية التسجيل والوقت المستغرق لعملية التحقق، وتم عمل ذلك باستخدام طريقتين: من خلال استبيان للمستخدمين للإجابة عن بعض الأسئلة حول الوقت وحساب الوقت آلياً داخل النظام نفسه، ضمن موقع إلكتروني يحتوي على طريقة التعرف ومن ثم تخزين النتائج الوقت في قاعدة البيانات.
+"""@ar ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:isSupervisedBySupervisor gpo:د._سالم_السيوي ;
+    gpo:projectName "User authentication system based on recognition graphical password" .
+
+gpo:Project_37 a gpo:Project ;
+    gpo:abstract "تهدف هذه الدراسة إلى تقييم دقة واعتمادية استخدام نموذج \"Constructive Cost Model - COCOMO\" كأداة لتقدير جهد إنجاز المشاريع البرمجية، بما في ذلك تحديد الوقت والتكلفة وعدد الأشخاص اللازمين لإتمام المشروع. يعتمد هذا النموذج في تقديراته على عدة عوامل، منها عدد أسطر الشفرة البرمجية، ومجموعة من العوامل المؤثرة على المشروع مثل تعقيد المنتج البرمجي ومستوى خبرة فريق تطوير المشروع. طُبّقت منهجية البحث العلمي على دراسة حالة مشروع برمجي معين، حيث قام الباحث بجمع خصائصه ومواصفاته وتحليلها وتحديد مقاييس لها، ومن ثم حساب تقديرات هذا المشروع باستخدام تطبيق ويب طوّره استنادا إلى معادلات حساب الجهد التي يستخدمها النموذج المذكور. قورنت نتائج حسابات النموذج مع آراء مجموعة من الخبراء في مجال تطوير وبيع المنتجات البرمجية، وأظهرت حسابات النموذج تقديرات مقاربة لآراء الخبراء. توصل الباحث في هذه الدراسة إلى أن استخدام \"COCOMO\" يمكن أن يكون مفيداً كأداة لتقدير جهد المشاريع البرمجية، ولكن يجب مراعاة العوامل المؤثرة على بيئة المشروع البرمجي لضمان دقة التقديرات."@ar ;
+    gpo:enrolledInDepartment gpo:هندسة_البرمجيات ;
+    gpo:isSupervisedBySupervisor gpo:د._عبدالعظيم_سالم_الجمل ;
+    gpo:projectName "تقييم موثوقية COCOMO في تقدير جهد انجاز المشاريع البرمجية الصغيرة" .
+
+gpo:Project_39 a gpo:Project ;
+    gpo:abstract "نتيجة لما يعانيه أصحاب المشاريع من صعوبات في عمليات الحجز والرد على الكم الهائل من الرسائل والتي تكون معظمها رسائل تحوي أسئلة متكررة من قبل الزبائن، تم اقتراح تنفيذ تطبيق ويب ليكون نظام بديل للوسائل التقليدية المستخدمة من قبلهم. في هذا البحث تم بناء تطبيق ويب، لكي يساعد أصحاب المشاريع الصغيرة في تأدية عملهم بشكل سهل ويوفر عليهم الوقت، حيث يعتمد التطبيق على قاعدة بيانات التي تحتوي على المعلومات الخاصة بكل المنتجات التي يوفرها مدير النظام، ويوفر التطبيق للزبون إمكانية حجز المنتج حسب متطلباته الخاصة، كما يمكنه التواصل مع مدير النظام في حالة واجهته أي مشكلة، وقد صممت واجهات بسيطة للتطبيق بحيث تكون واضحة للمستخدم، وقد تم اختبار النظام من قبل عينة عشوائية من أصحاب المشاريع والزبائن، وتحصلنا على مجموعة من النتائج، فقد أعجبوا بالنظام ولم يواجهوا أي صعوبة في فهمه واستخدامه، وأخيرا تم ذكر بعض التوصيات التي ستحسن و تطور من التطبيق."@ar ;
+    gpo:enrolledInDepartment gpo:هندسة_البرمجيات ;
+    gpo:isSupervisedBySupervisor gpo:أ._هدى_سالم_بادش ;
+    gpo:projectName "تطبيق خدمي لإدارة محل حلويات وتمثيل معايير قابلية الاستخدام في تصميم الواجهات" .
+
+gpo:Project_4 a gpo:Project ;
+    gpo:abstract "نتيجة لما يعانيه زبائن الشركة من مشاكل وتأخير  في عمليات التعبئة والاستعلام عن بياناتهم واتباع الطرق التقليدية لتعبئة الرصيد، وجدنا أن هناك حاجة لانشاء تطبيق ويب الكتروني بديل للنظام الحالي التقليدي . ليست المشكلة في تقديم خدمة بل في طريقة تقديم هذه الخدمة بالشكل المناسب والمريح للمستخدم وبالطريقة التي تكون فيها استخدام الخدمة سهل وسريع . خدمة تعبئة الرصيد إلكترونيا هي من أهم الخدمات التي يجب توفرها في اي شركة اتصالات وتقنية وبناءا على  ذلك تم انشاء هذا النظام بالصورة المطلوبة من ناحية سهولة الاستخدام للتعبئة ومعرفة الرصيد والعروض لمتاحة وكل التفاصيل التي تقدمها الشركة للعملاء.تم التركيز في هذا النظام على ان يكون سبب في راحة العملاء ولتجنب المشاكل التي تواجههم في النظام الحالي، وبالطريقة التي تواكب تطور التكنولوجيا الحديثة."@ar ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:isSupervisedBySupervisor gpo:أ._عبدالمطلب_العبور ;
+    gpo:projectName """تطبيق LNET نظام تعبئة كروت باقات االنترنت وخدمة العملاء رقميا 
+" دراسة تطبيقية على شركة ليبيا لالتصاالت والتقنية "
+""" .
+
+gpo:Project_44 a gpo:Project ;
+    gpo:abstract """تلعب الشبكات دوراً حيوياً في المجال التعليمي والإداري، لذلك ازدادت الحاجة إلى تصميم شبكة للحرم الجامعي للارتقاء بالعملية التعليمية ورفع القدرة الإدارية لجامعة مصراتة.
+يقدم هذا المشروع دراسة وإعداد تصميم لشبكة تخدم جامعة مصراتة، لتساهم في عملية التواصل بين الكليات التابعة للجامعة، وقد تم إعداد تصميم هرمي للشبكة بحيث توفر للمستخدمين اتصالاً سلكياً ولاسلكياً، وتم استخدام عدة تقنيات لتصميم الشبكة وتوفير الحماية لها، كما تم التركيز على العوامل التي من شأنها تعزيز أداء الشبكة؛ وذلك لتقديم أفضل الخدمات لطلابها وكافة منتسبيها بشكل سهل وميسر.
+وقمنا بعمل محاكاة للشبكة باستخدام محاكي الشبكات Cisco packet tracer، وتم التركيز على كلية تقنية المعلومات، كلية طب وجراحة الفم والأسنان، وكلية الفنون والإعلام لتوضيح كيفية ربط الكليات القريبة والمتباعدة، واعتمد التصميم على دراسة موقع الكليات والجمع المباشر للمعلومات."""@ar ;
+    gpo:enrolledInDepartment gpo:الشبكات_والاتصالات ;
+    gpo:isSupervisedBySupervisor gpo:أ._علي_مصطفى_الشاوش ;
+    gpo:projectName "دراسة وتصميم شبكة الحرم الجامعي لجامعة مصراتة" .
+
+gpo:Project_48 a gpo:Project ;
+    gpo:abstract """نظرًا لتحديات الدفع الإلكتروني وصعوبة التعاملات المالية الرقمية واختلاف اللغة والثقافة الليبية، إضافة إلى عدم مصداقية بعض المتاجر الإلكترونية، تم بناء وتصميم متجر إلكتروني باستخدام نموذج Dropshipping بتقنية MVC بهوية وطنية موفرا طرق دفع متاحة في ليبيا.
+حيث يعتبر هذا النموذج منهجًا تجاريًا حديثًا يسمح للتجار بتحديث عملياتهم التجارية والتفاعل مع متطلبات السوق بشكل مبتكر وذكي، فهذا النموذج يهدف إلى تقديم حل لهذه المشكلات من خلال توفير طرق دفع ميسورة وآمنة داخل التطبيق بإنشاء بطاقات الدفع المسبق، وتوفير واجهات بسيطة وسهلة الاستخدام لتحسين تجربة المستخدم، بالإضافة إلى توفير آليات لضمان جودة المنتجات وبناء الثقة لدى المستهلكين. فهو يساهم في تعزيز النشاط التجاري وتعزيز التجارة الإلكترونية في ليبيا."""@ar ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:isSupervisedBySupervisor gpo:د._مصطفى_أبوزريدة ;
+    gpo:projectName "المساعدة على تحضير القهوة العربية باستخدام تقنيات التعلم الآلي Computer Vision" .
+
+gpo:Project_5 a gpo:Project ;
+    gpo:abstract "تتمثل مشكلة المشروع في قلة المحتوى الإسلامي الذي يدعم العملية التعليمية للأطفال، واستخدام قصص القرآن الكريم في تعليم الأطفال قيم الإسلام بتوظيف مفهوم الألعاب التفاعلية، وهدفت الدراسة الى إنشاء تطبيق يساهم في تعليم الأطفال قصص القرآن بطريقة تفاعلية باستخدام تقنيات الألعاب، وتم مقارنة المشرع مع برامج أخرى وتجرية علي عينة من 5 أطفال، وكانت النتائج التي تم الوصول إليها: أهمية التفاعل التواصل البصري والسمعي الذي تقدمه الألعاب في جدب اهتمام الطفل ليتعلم، وأهمية دمج أولياء الأمور في مراقبة العملية التعليمية لأطفالهم. ولإنشاء تطبيق لتعليم الأطفال بأفضل شكل يجب الحرص على ضرورة إشراك مختصي في التربية وعلم النفس عند إنشاء التطبيق، وضرورة التركيز على طريقة السرد الصوتي في القصة لتجدب انتباه الطفل، وتوظيف الألعاب الإلكترونية التفاعلية في العملية التعليمية خاصة لأطفال الروضة، وإثراء المجا لات التعليمية للأطفال من خلال الاستفادة من التقنيات الحديثة."@ar ;
+    gpo:enrolledInDepartment gpo:الوسائط_المتعددة ;
+    gpo:isSupervisedBySupervisor gpo:أ._سالم_أبودبوس ;
+    gpo:projectName "تطبيق تعليم الأطفال قصص القرآن الكريم باستخدام الألعاب التفاعلية" .
+
+gpo:أ.__أمل_فرج_الرمالي a gpo:Supervisor .
+
+gpo:أ._أسامة_أبوفناس a gpo:Supervisor .
+
+gpo:أ._أفراح_رمضان_شعيب a gpo:Supervisor .
+
+gpo:أ._أنور_الصنكي a gpo:Supervisor .
+
+gpo:أ._أيوب_أحمد_القصير a gpo:Supervisor .
+
+gpo:أ._أيوب_القصير a gpo:Supervisor .
+
+gpo:أ._إبتسام_صيدون a gpo:Supervisor .
+
+gpo:أ._إبتسام_محمد_أبوجناح a gpo:Supervisor .
+
+gpo:أ._المهدي_امحمد_جبريل a gpo:Supervisor .
+
+gpo:أ._بشير_ميلاد_الخراز a gpo:Supervisor .
+
+gpo:أ._عبد_المطلب_محمد_العبور a gpo:Supervisor .
+
+gpo:أ._عبدالمطلب_العبور a gpo:Supervisor .
+
+gpo:أ._علي_مصطفى_الشاوش a gpo:Supervisor .
+
+gpo:أ._عيسى_حسين_مانيطة a gpo:Supervisor .
+
+gpo:أ._فرج_الشاعري a gpo:Supervisor .
+
+gpo:أ._فيصل_الرمالي a gpo:Supervisor .
+
+gpo:أ._ليلى_فنص a gpo:Supervisor .
+
+gpo:أ._محمد_بشير_ابوغرسه a gpo:Supervisor .
+
+gpo:أ._مروة_إسماعيل_الضراط a gpo:Supervisor .
+
+gpo:أ._مصطفى_أبوغرسة a gpo:Supervisor .
+
+gpo:أ._هدى_سالم_بادش a gpo:Supervisor .
+
+gpo:أ._وئام_الصغير a gpo:Supervisor .
+
+gpo:أ._يوسف_عبدالرحمن_أبوراوي a gpo:Supervisor .
+
+gpo:أ.د._أحمد_أبوشعالة a gpo:Supervisor .
+
+gpo:د._أبوبكر_محمد_البيوضي a gpo:Supervisor .
+
+gpo:د._أحمد_أبوغرسة a gpo:Supervisor .
+
+gpo:د._أنور_الهنشيري a gpo:Supervisor .
+
+gpo:د._عاطف_حمزة_الدنفرية a gpo:Supervisor .
+
+gpo:د._علي_الروياتي a gpo:Supervisor .
+
+gpo:د._علي_باكير a gpo:Supervisor .
+
+gpo:د._علي_محمد_عبدالشاهد a gpo:Supervisor .
+
+gpo:د._هشام_عبدالسلام_بن_رجب a gpo:Supervisor .
+
+gpo:Project_1 a gpo:Project ;
+    gpo:abstract "یشكل تلوث میاه البحر تھديداً  كبیراً للنظم البیئیة البحریة، مما یتطلب حلول فعالة لرصد وإدارة ھذه المشكلة. یھدف ھذا المشروع البحثي إلى معالجة ھذا التحدي من خلال تطویر نظام متنقل لرصد جودة المیاه عن طریق دمج تقنیات إنترنت الأشیاءIOT وخوارزمیة شجرة القرارات. الھدف ھو إنشاء جھازمدمج وقابل للنقل قادر على تصنیف جودة میاه البحر في الوقت الحقیقي في میناء المنطقة الحرة في مصراتة. سیقوم النظام المقترح برصد معاییر جودة المیاه الرئیسیة مثل درجة الحرارة و العكارة والموادالصلبة الذائبة و الاس الھیدروجیني والأكسجین المذاب باستخدام أجھزة استشعار متصلة بلوحة تحكم Arduino UNO و لوحة تحكم إنترنت الأشیاء ESP32 . سیتم إرسال بیانات الاستشعار لاسلكياً إلى منصة السحابة ThingsBoard لعرضھا وتحلیلھا. كما سیتم استخدام النظام لجمع البیانات من المیناءلاستخدامھا في تدریب خوارزمیة شجرة القرارات لتصنیف جودة المیاه على أنھا جودة عالیة أو متوسطة أو منخفضة. علاوة على ذلك، سیتم تطبیق تقنیات استخراج القواعد لاشتقاق قواعد قابلة للتفسیر من نموذج شجرة القرارات. سیتم بعد ذلك دمج ھذه القواعد المستخرجة في محرك قواعد ThingsBoard لتصنیف جودة المیاه في الوقت الحقیقي بناءً على البیانات المستقبلة من أجھزة الإستشعار. سیوفر نشر ھذا الحل المتكامل لإنترنت الأشیاء والتعلم الآلي في حوض المیناء للسلطات المینائیة والوكالات البیئیة رؤى قيمة في الوقت الفعلي لدعم التدخلات في الوقت المناسب وإدارة فعالة لجودة المیاه البحریة. من خلال توفیر نظام مراقبة ذكي وقابل للتوسع، سیساھم ھذا المشروع بشكل كبیر في حمایة النظم البیئیة البحریة في میناءالمنطقة الحرة في مصراتة. علاوة على ذلك، ستمھد ھذه الدراسة الطریق لتطبیقات إنترنت الأشیاء والتعلم الآلي في مراقبة جودة المیاه في البیئات المائیة الأخرى."@ar ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:isSupervisedBySupervisor gpo:د._حسين_خليل ;
+    gpo:projectName "تطوير نظام لتصنيف جودة مياه البحر عبر دمج تقنيات إنترنت الأشياء وخوارزمية شجرة القرارات" .
+
+gpo:Project_10 a gpo:Project ;
+    gpo:abstract """يقدم هذا المشروع دراسة حول بروتوكولين من أهم بروتوكولات إنترنت الأشياء وهما بروتوكول CoAP وبروتوكول MQTT-SN لبيان مميزات وعيوب كل بروتوكول، بالإضافة لتوضيح بنية ورسائل وكيفية عمل كل منهما.
+تم تنفيذ كلا البروتوكولين في بيئة محاكاة شبكات إنترنت االأشياء COOJA للحصول على نتائج واقعية لأداء كلا البروتوكولين والمقارنة بينهما وفقاً لثلاثة معايير وهي: throughput و Initialization و bandwidth .
+بعد الانتهاء من تنفيذ وتقييم البروتوكولات تم التوصل إلى النتائج التالية:
+1.        تفوق بروتوكول MQTT-SN على بروتوكول COOJA في مقدار throughput بفارق واضح وكبير.
+2.        تفوق بروتوكول MQTT-SN على بروتوكول COOJA في إمكانية توفير bandwidth أكبر.
+3.        تفوقت العقد الخاصة ببروتوكول COOJA على العقد الخاصة ببروتوكول MQTT-SN في سرعة انشاء Initialization Time  بفارق بسيط.
+"""@ar ;
+    gpo:enrolledInDepartment gpo:الشبكات_والاتصالات ;
+    gpo:isSupervisedBySupervisor gpo:أ._عفيف_أبوغرسة ;
+    gpo:projectName """Comparing and analyzing traffic for MQTT-SN and CoAP 
+protocols using COOJA simulator""" .
+
+gpo:Project_12 a gpo:Project ;
+    gpo:abstract "في الوقت الحاضر يشهد العالم استخداماً متزايداً للتقنيات والأدوات الرقمية في تعليم اللغة الإنجليزية، وعلى الرغم من ذلك لا يزال هناك نقص في الاستخدام الكافي والمناسب للعديد من الأدوات والتطبيقات المتاحة. ونظراً لأن التعليم الإلكتروني التفاعلي يمثل تقدماً هاماً في مجال التعليم والتدريس، يمكن أن يسهم في تحسين جودة التعليم وزيادة مرونته ومن هنا، تهدف هذه الدراسة إلى دمج وسائط متعددة وأنشطة تفاعلية في تعليم اللغة الإنجليزية لطلاب الصف الرابع الابتدائي باستخدام أداة H5P HTML5 Package تشمل هذه الأدوات بطاقات الحوار والفيديو التفاعلي والكتاب التفاعلي. كما تهدف الدراسة إلى استطلاع آراء ومواقف المعلمين تجاه استخدام هذه الأداة، ومقارنة بين أنماط التعليم المختلفة، وتوصلت الدراسة إلى أن أداة )Package 5HTML)P5H فعالة ومفيدة في توفير محتوى تعليمي غير متزامن، وتتوافق مع التحديات الموجودة في هذا المجال."@ar ;
+    gpo:enrolledInDepartment gpo:الوسائط_المتعددة ;
+    gpo:isSupervisedBySupervisor gpo:د._علي_محمد_عبدالشاهد ;
+    gpo:projectName "تصميم محتوى تفاعلي باستخدام P5H حالة الدراسية( مادة اللغة الإنجليزية لطالب الصف الرابع بمرحلة التعليم الأساسي)" .
+
+gpo:Project_13 a gpo:Project ;
+    gpo:abstract "نظرًا للتحديات التي تواجه إدارة صالات المناسبات في ليبيا، بما في ذلك التعقيدات في عمليات الحجز التقليدية، وصعوبة تنسيق الجداول الزمنية للحجوزات، إضافة إلى محدودية وسائل الدفع المتاحة وطرقها، تم تصميم وتطوير تطبيق ويب لحجز صالات المهرة للمناسبات باستخدام تقنيات حديثة. يهدف هذا التطبيق إلى تحسين تجربة المستخدم لكل من أصحاب الصالة والزبائن من خلال توفير واجهات بسيطة وسهلة الاستخدام. يعتمد التطبيق على حلول تقنية مبتكرة لتقديم خدمات متكاملة تشمل عرض الديكورات المتاحة للحجز، إدارة الإعلانات، توفير نظام حجز إلكتروني يسهل إتمام العمليات دون الحاجة إلى الحضور الشخصي، وإتاحة وسائل دفع ميسورة وآمنة من خلال نظام الدفع الإلكتروني. كما يساهم التطبيق في تعزيز الكفاءة الإدارية عبر أدوات تحليلية وتقارير إحصائية للأرباح لأصحاب الصالة، مما يساهم في تحسين تجربة العملاء في قطاع إدارة المناسبات داخل ليبيا."@ar ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:isSupervisedBySupervisor gpo:أ._يوسف_عبدالرحمن_ابوراوي ;
+    gpo:projectName """تطبيق ويب لحجز صالات المناسبات الاجتماعية
+(صالة قاعة قصر المهرة نموذجا)
+""" .
+
+gpo:Project_14 a gpo:Project ;
+    gpo:abstract "يهدف البحث إلى تطوير منصة إلكترونية رياضية في مدينة مصراتة لتسهيل الوصول إلى الصالات الرياضية ومحلات الملابس والمعدات الرياضية، ومعالجة مشكلات مثل صعوبة الوصول إلى معلومات محدثة ونقص منصة موحدة للاشتراك والتواصل. توفر المنصة خدمات شاملة تشمل عرض تفاصيل الصالات الرياضية والمنتجات وإدارة الاشتراكات، إلى جانب تعزيز التواصل بين المدربين والمتدربين. تعتمد المنصة على منهجية الشلال المعدل (Modified Waterfall) في التطوير، مع استخدام قاعدة بيانات SQL SERVER لتنظيم وتخزين البيانات بفعالية. توفر المنصة واجهات مستخدم سهلة الاستخدام تناسب مختلف الفئات، بما في ذلك الرياضيين، المدربين، مديري الصالات، والزوار. تشمل الميزات الرئيسية عرض تفاصيل الصالات والمنتجات الرياضية، إدارة الجداول والاشتراكات، ونظام تعليقات شفاف. تهدف المنصة إلى تحسين تجربة المستخدمين من خلال توفير أدوات متقدمة للبحث والحجز وإدارة البيانات. تسهم المنصة في دعم القطاع الرياضي في مصراتة عبر تقديم خدمات مبتكرة وشاملة تلبي احتياجات الرياضيين وتعزز كفاءة الصالات الرياضية ومحلات البيع."@ar ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:isSupervisedBySupervisor gpo:أ._فرج_الشاعري ;
+    gpo:projectName """(Sport Platform)
+تنفيذ منصة إلكترونية رياضية بمدينة مصراتة""" .
+
+gpo:Project_18 a gpo:Project ;
+    gpo:abstract "من خلال ما تم عرضه في هذا المشروع نستطيع أن نُخلّص إلى أن نظام \" إدارة المهام \" إلكترونيا يحقق قدراَ عالياَ من السرية والمرونة ويتيح المجال أمام مستخدميه لتأدية أعمالهم حيثما كانوا ، الأمر الذي يجعله خطوة كبيرة نحو التقدم في مجال الإدارة ونرى أن تطبيقه مناسب جداً للعديد من الإدارات في كثير من المؤسسات لاسيما منها التجارية والخدمية ويحقق توفير في الجهد والوقت والمال ؛ وهو قابل للتطوير والتكامل مع بعض النظم الأخرى مما يكسبه حيوية ويجعله موضع اهتمام لكل مدير يسعي إلى الرقي بإدارته على سلم التقدم الإداري ."@ar ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:isSupervisedBySupervisor gpo:أ._عيسى_حسين_مانيطة ;
+    gpo:projectName """نظام إدارة المهام
+Task Management  System
+""" .
+
+gpo:Project_19 a gpo:Project ;
+    gpo:abstract """تتركز فكرة هذا المشروع على إعداد منظومة متصلة بالأنترنت أو شبكه داخلية تقوم بنشر الاعلانات، حيث يتم إضافة الاعلانات عن طريق الموقع الخاص بالمنظومة وهذه الطريقة تضمن وصول الاعلان الى أكبر عدد ممكن من مستخدمي النظام في وقت قياسي، حيث يتمكن كل من أعضاء هيئة التدريس والاقسام العلمية وقسم الدراسة والامتحانات والطالب من استخدام النظام عن طريق صفحة الدخول، حيث يتم ادخال اسم المستخدم وكلمة المرور والتحقق من البيانات وتوجيه المستخدم الى الجزء الخاص به في النظام وكل مستخدم من مستخدمي النظام له صلاحيته الخاصة، بالإضافة لذلك يتمكن القسم العلمي من إضافة وعرض وتعديل إعلانات خاصة بطلبة القسم أو أعضاء هيئة التدريس بالقسم، وإرسال واستقبال وعرض الملاحظات من وإلى أعضاء هيئة التدريس كما يستطيع قسم الدراسة والامتحانات من إضافة وعرض وتعديل وحجب الاعلانات العامة، وإرسال رسائل قصيرة لأي عنصر من عناصر النظام ، كما يمكن لعضو هيئة التدريس من عرض جدول بآخر خمسة إعلانات وإرسال واستقبال ملاحظات من وإلى القسم، واضافة وتعديل إعلانات خاصة بمواده الدراسية،كما يمكن للطالب استقبال وعرض الإعلانات العامة والخاصة بمواده الدراسية عن طريق صفحته الرئيسية أو الايميل الالكتروني.
+ويوجد تنبيه في الصفحة الرئيسية لكل مستخدم يحتوي عدد الملاحظات والاعلانات الغير مقروءة. 
+تم برمجة النظام باستخدام ASP.NET المتخصصة في مجال الويب متضمنة أكواد برمجية مكتوبة بلغة # C باستخدام برنامج visual studio 2010 وربطها بقاعدة بيانات (SQL) الخاصة بالمنظومة.
+واستخدام تقنيات CSS&AJAX
+"""@ar ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:isSupervisedBySupervisor gpo:أ._محمد_بشير_ابوغرسه ;
+    gpo:projectName """نظام إدارة العملية التعليمية في الكلية
+"منظومة الاعلانات"
+""" .
+
+gpo:Project_22 a gpo:Project ;
+    gpo:abstract """تتلخص فكرة البحث في تطوير منظومة التسجيل الإلكتروني بكلية تقنية المعلومات، حيث أنه بالرغم من كون المنظومة عبر الانترنت الغرض منها التخلص من مشاكل التسجيل اليدوي إلا أن أنه مازال حاضرا بالكلية أثناء عملية التسجيل، و يشكل ربكة للمسئولين و للطلبة.
+النظام المطور يعمل على التغلب على مشاكل التسجيل اليدوي إلى حد كبير و هو الهدف الرئيسي لعمل المنظومة عبر الإنترنت، بحيث تم طرح فكرة التسجيل المبدئي الذي يتحصل من خلاله المسئولين على معلومات عن عدد الطلبة في المواد بشكل محدد تساعدهم في دعم القرار لإنشاء الجدول الدراسي و من ثم تحديد مجموعات المواد بشكل دقيق و توزيع أعداد الطلاب عليها بشكل عادل، و من ثم في التسجيل الفعلي أثناء فترة تجديد القيد يتم طرح المجموعات أثناء التنزيل ، يختار الطالب مجموعاته و يؤكد تنزيله المبدئي.
+تركز النظام المقترح على توفير لوحة تحكم خاصة بالمسئول تمكنه من إدراة المنظومة و التحكم في بيانات المواد و الطلبة و إدخال الجدول الدراسي و غيرهاـ كما يمكنه الحصول على تقارير مختلفة مثل كشف بأسماء الطلبة في المواد، كذلك يوفر المقترح صلاحيات لأعضاء هيئة التدريس في المنظومة حيث بإمكانه الدخول على المنظومة و الحصول على كشف بأسماء الطلبة كشف الغياب و كشف الدرجات في المادة التي يدرسها و في حالة كون الأستاذ مرشد لمجوعة من الطلبة فإنه يتمكن من الإطلاع على موادهم و فصولهم الدراسية بغرض توجيهيهم بطريقة جيدة.  
+تم برمجة النظام باستخدام ASP.NET المتخصصة في مجال الويب متضمنة أكواد برمجية مكتوبة بلغة C#.NET و ربطها بقاعدة بيانات (SQL) الخاصة بالمنظومة.
+"""@ar ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:isSupervisedBySupervisor gpo:أ._مصطفى_أبوغرسة ;
+    gpo:projectName "تطوير منظومة التسجيل الإلكتروني" .
+
+gpo:Project_23 a gpo:Project ;
+    gpo:abstract """في الوقت الحاضر نشاهد تطور ملحوظ في عالم السياحة وهذا بدوره يؤدي إلي تنافس كبير من الشركات في هذا المجال ,فكثير من الشركات تسعي إلي تسهيل الحجز في الفنادق و كذلك في نفس الوقت تسهيل عمليات البحث عن المكان الملائم داخل الفندق و الذي يتناسب مع احتياجات الزبون.
+وقد تناول هذا المشروع بفصوله الأربعة نظام الحجز الالكتروني حيث يتضمن الفصل الأول مقدمة عن السياحة ومدي ارتباطها بصناعة الفنادق التي تؤثر بشكل كبير علي النشاط السياحي للبلاد .
+و الفصل الثاني يحتوي علي توضيح لمرحلة الدراسة التمهيدية و التفصيلة وتحليل لجميع الجوانب المتعلقة بالنظام القائم .
+ و في الفصل الثالث تم بالشروع  تصميم النظام بتقنيات حديثة شملت برنامج (SQL server 2008) لإدارة قاعدة البيانات و الذي مكن من تصميم قاعدة البيانات و ربطها مع بيئة تطوير النظام برنامج (VB(visual basic).NET) .
+وفي الفصل الرابع تناول ما تم استنتاجه من المشروع و التوصيات التي نسعى بأن تضاف إلي ما تم انجازه .
+"""@ar ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:isSupervisedBySupervisor gpo:أ._وئام_الصغير ;
+    gpo:projectName "نظام الحجز الإلكتروني لفندق البركة" .
+
+gpo:Project_24 a gpo:Project ;
+    gpo:abstract """نظراً لأهمية أدوات كشف السرقات الأدبية في حماية حقوق الملكية الفكرية للأفراد، وبناء على الاتفاقية الموقعة بين كلية تقنية المعلومات وشركة لمة واستجابةً لطلبهم بتوفير أداة تدعم اللغة العربية لكشف السرقات الأدبية في المقالات المنشورة على مدوناتها قبل نشرها بشكل نهائي لذلك فقد شرعنا في تصميم أداة متخصصة لهذا الغرض بحيث يكون هذا المشروع هو أول مشروع ضمن هذه الاتفاقية.
+في البداية، تم تجميع قاعدة بيانات واسعة تضم قرابة 1000 مقالة علمية في مجال تقنية المعلومات تم تجميعها من مدونات عربية نشطة ومشهورة. ثم شرعنا في معالجة النصوص الموجودة في قاعدة البيانات باستخدام خطوات المعالجة المبدئية، والتي تشمل استخلاص الوحدات اللغوية (Tokenization) وإزالة الكلمات التوقف (Stop Words). بعد ذلك، اعتمدنا على ثلاث خوارزميات متقدمة لاكتشاف بصمة النص في كل مقالة، هذه الخوارزميات هي: خوارزمية Hailstorm وخوارزمية Winnowing وخوارزمية Rabin-Karp. تم تطبيق هذه الخوارزميات على النصوص وحصلنا على نتائج إيجابية من كل منها، إلا أن خوارزمية Hailstorm كانت الأكثر دقة وفعالية في اكتشاف السرقات الأدبية.
+ولضمان فعالية الأداة، قمنا باختبارها على مجموعة من المقالات التي تحتوي على نسب معروفة من السرقات الأدبية مسبقاً. أثبتت الأداة كفاءتها في تحديد نسب السرقة بدقة عالية ومقبولة، مما يؤكد جاهزيتها للاستخدام في حماية حقوق الملكية الفكرية وضمان أصالة المحتوى المنشور على مدونات الشركة.
+"""@ar ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:isSupervisedBySupervisor gpo:أ._يوسف_عبدالرحمن_ابوراوي ;
+    gpo:projectName "تصميم وبرمجة أداة لاكتشاف السرقات الأدبية في المدونات التقنية" .
+
+gpo:Project_25 a gpo:Project ;
+    gpo:abstract """يعد موضوع أمن المعلومات والحماية من الهجمات الإلكترونية من الموضوعات المهمة والحساسة في مجال تقنية المعلومات. حيث تشكل هجمات SQL Injection و Cross-Site Scripting (XSS) تهديداً كبيراً لأمن المعلومات والنظم الإلكترونية. لذا فقد أصبح من الضروري البحث عن طرق وآليات متنوعة وفعالة لاكتشاف ومنع هذه الهجمات.
+تم في هذا المشروع تصميم نظام قادر على اكتشاف وتقييم مدى فاعلية هذه الخوارزميات لهجمات (SQL Injection , XSS) ، تم استخدام مجموعتين بيانات واحدة لـ SQL Injection والأخرى لـ XSS، تتكون البيانات من عمودين عمود لنص الهجمة والآخر لتحديد الهجمة ضارة أو لا (0 أو 1). تم اختيار خوارزمية Naïve , خوارزمية Hamming , خوارزمية Levenshtein Sort , خوارزمية Levenshtein Ratio ، تمت معالجة البيانات وإصلاحها، ثم استخدمت خوارزميات المنطق الضبابي لتحديد واكتشاف الهجمات الجديدة والقديمة مع نظام العتبات لجعل النتائج أكثر دقة، وبالتالي تم حساب بعض المعلومات المهمة لكل خوارزمية ومقارنتها ببعضها مما يبين أكثرهم دقة وأكثرهم سرعة.
+"""@ar ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:isSupervisedBySupervisor gpo:أ._فيصل_الرمالي ;
+    gpo:projectName "دراسة مدى فاعلية خوارزميات المنطق الضبابي لمطابقة السلاسل الحرفية لتحديد واكتشاف هجمات SQL Injection and Cross-Site Scripting" .
+
+gpo:Project_30 a gpo:Project ;
+    gpo:abstract """هذا المشروع يهدف إلى تطوير نظام ذكي لتحسين عمليات التوظيف عبر تحليل السير الذاتية ومقارنتها مع متطلبات الوظائف باستخدام خوارزميات الذكاء الاصطناعي. يعتمد النظام على نموذج SBERT لتحليل النصوص وتحويلها إلى تمثيلات عددية دقيقة، بالإضافة إلى خوارزمية Cosine Similarity لقياس مدى التشابه بين المهارات والخبرات المتوفرة لدى المتقدمين ومتطلبات الأقسام المختلفة.
+يتم تعزيز دقة التصنيف باستخدام خوارزمية Logistic Regression التي تستخدم لتحديد القسم الأنسب لكل مرشح بناءً على تحليل شامل للمهارات، المؤهلات الأكاديمية، والخبرات العملية. علاوة على ذلك، يقدم النظام توصيات تدريبية مخصصة لسد الفجوات المهارية المكتشفة، مما يساعد الأفراد على تحسين فرصهم في سوق العمل.
+تم تدريب النظام باستخدام بيانات السير الذاتية الوهمية المولدة والأوصاف الوظيفية الفعلية، مع تطبيق تقنيات تحسين الأداء مثل Grid Search لضبط معايير النموذج.
+يتميز النظام بقدرته على تسريع وتحسين كفاءة عمليات التوظيف عبر تقديم تحليلات دقيقة وتوصيات فعالة، ويعزز من تكامل التكنولوجيا مع سوق العمل، مما يساهم في تلبية احتياجات المؤسسات والباحثين عن عمل على حد سواء.
+"""@ar ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:isSupervisedBySupervisor gpo:أ._بسمة_محمد_القبي ;
+    gpo:projectName "نظام التوظيف الذكي وتحليل الفجوات المهارية باستخدام خوارزميات الذكاء الاصطناعي" .
+
+gpo:Project_31 a gpo:Project ;
+    gpo:abstract """العلامة المائية الرقمية للصوتيات هي تقنية تستخدم لدمج أو تضمين معلومات رقمية بشكل غير محسوس لإشارة صوتية رقمية، الهدف منها هو لتوفير طرق يمكن من خلالها إثبات الملكية الفكرية، العلامة المائية يمكن أن تكون من نوعين إما هشة أو غير هشة (متينة) بحسب المستوى المحتاج أو المطلوب، أحد التحديات هو التأكد أن العلامة المائية تكون شفافة أو غير محسوسة أي أنها لا تقلل من جودة الصوت المدمجة به، العديد من الطرق والخوارزميات تم تطويرها للعلامة المائية الرقمية للصوتيات كل منها لديها نقاط قوة وضعف يتم قياس فعالية خوارزمية معينة على عدة معايير منها جودة الصوت، مقاومة العلامة المائية للعمليات التي تحدث على الإشارة الصوتية والهجمات المحتملة، ودقة استخراج العلامة المائية، هذا المشروع يقوم بالبحث في ثلاث خوارزميات وهي: طيف الانتشار ذا التسلسل المباشر Direct-Sequence Spread Spectrum (DS-SS)، التفكيك التجريبي للحالات Empirical Mode Decomposition (EMD) ، والتبديل للبت الأقل قيمة Least Significant Bit Substitution (LSB).
+في نتائج التجارب حقق DS-SS انخفاض في جودة الصوت بالنسبة لبقية الخوارزميات ولكنه يبقى غير ملحوظ للأذن البشرية مع مقاومة عالية للهجمات ولكن وقت التشغيل كان طويل نسبيا مما يجعله خيار أفضل للاستخدام في إثبات حقوق الملكية الفكرية.
+حقق EMD جودة صوت أفضل مع مقاومة للعوامل التي يمكن أن تصيب الموجة عند انتقالها في الطبيعة من إرسال وغيرها، مع وقت تشغيل منخفض مما يجعلها خيار مستحسن لتحقق أو مصادقة المحتوى ومراقبة النشر.
+كانت نتائج LSB أقل تأثير على جودة الصوت مع فشلها لمقاومة أي من الهجمات وكان وقت تشغيل الاستخراج عالي نسبياً حيث يمكن استخدامها للمصادقة المحتوى.
+"""@ar ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:isSupervisedBySupervisor gpo:د._مصطفى_أبوزريدة ;
+    gpo:projectName "Digital Audio Watermarking Using Digital Signal Processing" .
+
+gpo:Project_34 a gpo:Project ;
+    gpo:abstract """هدفت هذه الدراسة إلى تحليل المعوقات التي تواجه تطبيق الإدارة الإلكترونية في كلية التربية البدنية بجامعة مصراتة. كما هدفت إلى تحديد أهمية تطبيق الإدارة الإلكترونية وتقديم توصيات لتعزيزها. تم استخدام منهجية التحليل الوصفي، حيث تم استخدام استبيان كأداة لجمع البيانات من قبل أعضاء هيئة التدريس والطلاب في الكلية. تم تحليل البيانات باستخدام برنامج التحليل الإحصائي IBM SPSS.V23. أظهرت نتائج الدراسة وجود عدة عوائق تعيق تطبيق الإدارة الإلكترونية في كلية التربية البدنية، بما في ذلك نقص الوعي والتدريب على التكنولوجيا الإلكترونية ونقص الموارد التقنية والبنية التحتية المناسبة. استنادًا إلى هذه النتائج، تم تقديم توصيات لتعزيز تنفيذ الإدارة الإلكترونية، مثل توفير التدريب والتوعية لأعضاء هيئة التدريس والطلاب، وتحسين البنية التحتية التكنولوجية. كما هدفت الدراسة أيضًا إلى زيادة الوعي بأهمية تطبيق التكنولوجيا الإلكترونية في إدارة كليات التربية البدنية وتوجيه الجهود للتغلب على العوائق. يمكن استخدام نتائج الدراسة كأساس للبحوث المستقبلية في هذا المجال وتحسين تجربة الإدارة في الجامعات.
+كما تشير النتائج إلى أن الطلاب لديهم اهتمام كبير بتطوير الإدارة الإلكترونية في الجامعات، وقد تم تحديد العقبات الشائعة التي تحول دون تنفيذ الإدارة الإلكترونية مثل نقص التكنولوجيا والخبرة. يظهر التحليل الدلالي أن هناك علاقة كبيرة بين بعض المعوقات وتطبيق الإدارة الإلكترونية. وتشمل الخدمات المرغوبة التسجيل وإدارة الموارد والدعاية للفعاليات. ويعتبر المشاركون أن الإدارة الإلكترونية فعالة في تحسين العملية التعليمية وزيادة الشفافية والمساءلة.
+"""@ar ;
+    gpo:enrolledInDepartment gpo:نظم_المعلومات ;
+    gpo:isSupervisedBySupervisor gpo:أ._إبتسام_صيدون ;
+    gpo:projectName "دراسة معوقات تطبيق الإدارة الإلكترونية في كلية التربية البدنية بجامعة مصراتة" .
+
+gpo:Project_36 a gpo:Project ;
+    gpo:abstract """يهدف هذا المشروع إلى تصميم وتطوير تطبيق تعليمي تفاعلي يعتمد على تقنية الواقع المعزز (AR)، بهدف تحسين تجربة التعليم للأطفال من خلال تقديم أسلوب مبتكر وجذاب للتعلم. يعتمد التطبيق على استخدام بطاقات تعليمية تحتوي على رسومات يمكن قراءتها عبر كاميرا الهاتف أو الجهاز اللوحي، حيث تُعرض نماذج ثلاثية الأبعاد للحيوانات بمجرد توجيه الكاميرا نحو البطاقة. هذه النماذج التفاعلية تكون مصحوبة بصوت يوضح نطق الحرف وطريقة نطقه ضمن الكلمة، مما يساعد الطفل على التعلم بطريقة مرئية وسمعية شاملة.
+تم تطوير التطبيق باستخدام تقنيات حديثة مثل Unity و Vuforia، بالإضافة إلى برنامج Blender لتصميم النماذج ثلاثية الأبعاد بجودة عالية ودقة في التفاصيل. كما تم تصميم واجهة المستخدم بعناية لتكون سهلة الاستخدام وجذابة للأطفال، مع مراعاة توفير تجربة تعليمية ممتعة تتناسب مع الفئة العمرية المستهدفة.
+ركز المشروع على تحقيق تجربة تعليمية فعالة من خلال دمج التكنولوجيا بالتعليم التقليدي. وقد تم اختبار التطبيق على مجموعة من المستخدمين، وأظهرت النتائج أن 76.9% من المستخدمين أبدوا رضاهم عن التطبيق من حيث التصميم وسهولة الاستخدام، بينما أكد 100% من المشاركين أن التطبيق ساهم بشكل كبير في تحسين تجربة التعلم للأطفال، مما جعلها أكثر متعة وجاذبية.
+"""@ar ;
+    gpo:enrolledInDepartment gpo:الوسائط_المتعددة ;
+    gpo:isSupervisedBySupervisor gpo:د._عاطف_حمزة_الدنفرية ;
+    gpo:projectName "تطبيق تعليمي لمساعدة طلاب الصفوف الأولى في مادة اللغة الأنجليزية باستخدام تقنيات الواقع المعزز \"Augmented Reality\"" .
+
+gpo:Project_40 a gpo:Project ;
+    gpo:abstract """يهدف هذا المشروع إلى تصميم نظام إلكتروني لإدارة حجوزات شقق منتجع الأمان السياحي بمدينة مصراتة. يعتمد المشروع على استخدام تقنيات حديثة مثل HTML و CSS و PHP و MySQL، بالإضافة إلى نموذج الشلال المعدل لتطوير البرمجيات، لضمان تنظيم مراحل التطوير وتحقيق أهداف المشروع. يسعى النظام إلى تحسين تجربة المستخدم من خلال توفير منصة إلكترونية شاملة وسهلة الاستخدام. تتيح المنصة للعملاء استعراض تفاصيل الشقق المتاحة مثل الأسعار، الخدمات، المواصفات، والتواريخ المتاحة للحجز، مع إمكانية إرسال الملاحظات وإجراء الحجوزات عبر الإنترنت بسرعة وسهولة.
+يوفر النظام منصة متكاملة وفعالة تعزز الكفاءة التشغيلية للمنتجع، وتقلل الاعتماد على الأساليب التقليدية، وتحسن تجربة العملاء من خلال الشفافية في عرض الأسعار والخدمات. يساهم هذا النظام في دعم السياحة المحلية بمدينة مصراتة من خلال تقديم خدمات عالية الجودة تواكب التطور الرقمي."""@ar ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:isSupervisedBySupervisor gpo:أ._أيوب_أحمد_القصير ;
+    gpo:projectName "نظام إدارة حجوزات شقق منتجع الأمان السياحي في مدينة مصراته" .
+
+gpo:Project_43 a gpo:Project ;
+    gpo:abstract """في هذا المشروع، نتناول مشكلة نقص القراءة والتحصيل الدراسي لدى الأطفال، حيث يعاني الكثير منهم من صعوبات في فهم النصوص والتفاعل معها. يأتي مشروع "عالم القصص" كحل مبتكر من خلال إنشاء موقع إلكتروني يقدم قصصًا تفاعلية وتعليمية للأطفال. يهدف الموقع إلى تعزيز مهارات القراءة وتحفيز الخيال، من خلال توفير محتوى يجمع بين المتعة والفائدة.
+تم استخدام تقنيات مثل ASP.NET Core و Microsoft SQL Server و Bootstrap لتطوير النظام. النتائج أظهرت أن استخدام القصص الرقمية يعزز من فهم الأطفال ويساهم في بناء قيم إنسانية وأخلاقية، مما يؤدي إلى تحسين تحصيلهم الدراسي وزيادة اهتمامهم بالقراءة.
+"""@ar ;
+    gpo:enrolledInDepartment gpo:الوسائط_المتعددة ;
+    gpo:isSupervisedBySupervisor gpo:أ._أنور_الصنكي ;
+    gpo:projectName """STORY WORLD 
+موقع قصص تعليمي للأطفال
+"دراسة تطبيقية\"""" .
+
+gpo:Project_45 a gpo:Project ;
+    gpo:abstract """تنبؤ بنوع علاج مرضى السكري باستخدام خوارزميات تعلم الآلة هو مجال يهدف إلى تحليل وتقييم البيانات الشخصية للمرضى لتحديد العلاج الأمثل. يوفر هذا المجال طريقة فعالة وموثوقة لتحسين إدارة مرضى السكري من خلال تقليل الحاجة إلى التجربة والخطأ في تحديد العلاج المناسب. يهدف هذا البحث إلى التنبؤ بالعلاج المناسب لمرضى السكري باستخدام خوارزميات التعلم الآلي. تتناول الدراسة التحدي المتمثل في تحديد ما إذا كانت الحقن أو الأدوية ملاءمة للمرضى الأفراد من خلال تحليل البيانات الصحية الشخصية. تم جمع البيانات من المركز المتخصص بعلاج مرضى السكري والغدد الصماء - مصراتة، بما في ذلك المتغيرات الرئيسية مثل مؤشر كتلة الجسم (B.M.I)، وضغط الدم، ومستويات السكر في الدم، ومستويات HbA1c. وتشمل المنهجية عدة مراحل: جمع البيانات من خلال الاستبيانات المنظمة، والمعالجة المسبقة للبيانات (التعامل مع البيانات المفقودة، والتطبيع، واختيار الميزات، ومعالجة عدم توازن الفئة باستخدام SMOTE)، وتطبيق خوارزميات التعلم الآلي. تستخدم الدراسة آلة ناقل الدعم (SVM)، والغابات العشوائية(RF)، وشجرة القرار(DT)، وخوارزميات تعزيز التدرج (GB). تم إجراء مجموعتين من التجارب: الأولى باستخدام المعلمات المعلمات الافتراضية والثانية باستخدام ضبط المعلمة الفائقة عبر Grid Search لتحسين أداء النموذج.
+أشارت نتائج التجارب الأولية إلى أن خوارزمية تعزيز التدرج حققت أعلى دقة بنسبة 74%. ومع ذلك، بعد ضبط المعلمة الفائقة، أظهرت خوارزمية RF أداءً فائقًا بدقة تصل إلى 89%، يليها تعزيز التدرج بنسبة 85%. أظهرت خوارزمية SVM و DT أيضًا تحسينات كبيرة في الدقة بعد التحسين. تسلط النتائج الضوء على فعالية نماذج التعلم الآلي في التنبؤ بنوع علاج مرضى السكري. يؤدي دمج العوامل الخاصة بالمريض مثل العمر وسلوكيات نمط الحياة والتاريخ الطبي إلى تعزيز دقة النموذج. تؤكد الدراسة على أهمية ضبط المعلمة الفائقة وتقنيات التحسين المتقدمة في تحسين أداء النموذج. وتدعم هذه النتائج تطوير استراتيجيات شخصية وفعالة لإدارة مرضى السكري، مما يؤدي في النهاية إلى تعزيز نتائج المرضى وكفاءة الرعاية الصحية."""@ar ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:isSupervisedBySupervisor gpo:د._مصطفى_أبوزريدة ;
+    gpo:projectName "Predicting The Type of Treatment for Diabetes Patients using Machine Learning Algorithms" .
+
+gpo:Project_46 a gpo:Project ;
+    gpo:abstract """نظرًا لتحديات الدفع الإلكتروني وصعوبة التعاملات المالية الرقمية واختلاف اللغة والثقافة الليبية، إضافة إلى عدم مصداقية بعض المتاجر الإلكترونية، تم بناء وتصميم متجر إلكتروني باستخدام نموذج Dropshipping بتقنية MVC بهوية وطنية موفرا طرق دفع متاحة في ليبيا.
+حيث يعتبر هذا النموذج منهجًا تجاريًا حديثًا يسمح للتجار بتحديث عملياتهم التجارية والتفاعل مع متطلبات السوق بشكل مبتكر وذكي، فهذا النموذج يهدف إلى تقديم حل لهذه المشكلات من خلال توفير طرق دفع ميسورة وآمنة داخل التطبيق بإنشاء بطاقات الدفع المسبق، وتوفير واجهات بسيطة وسهلة الاستخدام لتحسين تجربة المستخدم، بالإضافة إلى توفير آليات لضمان جودة المنتجات وبناء الثقة لدى المستهلكين. فهو يساهم في تعزيز النشاط التجاري وتعزيز التجارة الإلكترونية في ليبيا."""@ar ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:isSupervisedBySupervisor gpo:د._هشام_عبدالسلام_بن_رجب ;
+    gpo:projectName "بناء وتصميم متجر إلكتروني باستخدام نموذج (Dropshipping) بتقنية MVC كَحل استراتيجي للتسويق الإلكتروني وبهوية وطنية" .
+
+gpo:Project_47 a gpo:Project ;
+    gpo:abstract """نظرًا لتحديات الدفع الإلكتروني وصعوبة التعاملات المالية الرقمية واختلاف اللغة والثقافة الليبية، إضافة إلى عدم مصداقية بعض المتاجر الإلكترونية، تم بناء وتصميم متجر إلكتروني باستخدام نموذج Dropshipping بتقنية MVC بهوية وطنية موفرا طرق دفع متاحة في ليبيا.
+حيث يعتبر هذا النموذج منهجًا تجاريًا حديثًا يسمح للتجار بتحديث عملياتهم التجارية والتفاعل مع متطلبات السوق بشكل مبتكر وذكي، فهذا النموذج يهدف إلى تقديم حل لهذه المشكلات من خلال توفير طرق دفع ميسورة وآمنة داخل التطبيق بإنشاء بطاقات الدفع المسبق، وتوفير واجهات بسيطة وسهلة الاستخدام لتحسين تجربة المستخدم، بالإضافة إلى توفير آليات لضمان جودة المنتجات وبناء الثقة لدى المستهلكين. فهو يساهم في تعزيز النشاط التجاري وتعزيز التجارة الإلكترونية في ليبيا."""@ar ;
+    gpo:enrolledInDepartment gpo:هندسة_البرمجيات ;
+    gpo:isSupervisedBySupervisor gpo:أ._عبد_المطلب_محمد_العبور ;
+    gpo:projectName "نظام توثيق الحالات الصحية / مركز مصراتة الطبي" .
+
+gpo:Project_49 a gpo:Project ;
+    gpo:abstract """الهواتف الذكية أمر لا مفر منه في الوقت الحاضر. هذا المشروع مخصص بشكل أساسي للسائحين الذين يواجهون العديد من الصعوبات في رحلتهم. سيساعد هذا المشروع على تحسين نظام الملاحة الحالي في الهاتف الذكي ، كما يستفيد هذا المشروع في العديد من الجوانب. يعد مشروع تطبيقات الهاتف المحمول هذا مفيدًا للغاية وسهل الاستخدام وأسرع ومرونة مع العديد من الأفكار الموجهة نحو المستقبل. تم تصميم تطبيق الهاتف المحمول هذا باستخدام برامج متقدمة يمكنها العمل في العديد من الأنظمة الأساسية ليس فقط في نظام التشغيل android.
+لقد تم استخدام التقنيات التي تتناسب مع التطبيق ، فمن حيث الوصف ومنهجية البحث إستعنا بالدراسات السابقة و الدراسة مسحيه ، و التحليل استخدمنا لغة النمذجة الموحدة و من حيث التطبيق استخدمنا لغة Dart و اطار العمل flutter وقاعدة البيانات firebase."""@ar ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:isSupervisedBySupervisor gpo:أ._ليلى_فنص ;
+    gpo:projectName "تطبيق دليل سياحي لليبيا" .
+
+gpo:Project_52 a gpo:Project ;
+    gpo:abstract """دراسة تقييم الأثر البيئي هي عملية تحليلية لتقييم التأثيرات البيئية المحتملة لمشروع أو نشاط معين، وتعتبر هذه الدراسة جزءًا هامًا من العملية التخطيطية لأي مشروع أو نشاط يتم تنفيذه في بيئة ما، يتم تحديد الأثر البيئي المحتمل للمشروع أو النشاط على البيئة المحيطة به، يمكن أن يشمل هذا الأثر تغييرات في جودة الهواء والمياه والتربة والحياة البرية والنباتية، ويتزايد الاهتمام بمراقبة جودة الهواء عن طريق إنترنت الذي شغل دورا مهما في الحياة منذ ظهوره وإلى يومنا هذا، حيث سهل الكثير من التواصل حول العالم، وجعل التطور أسرع مما يمكن وساهم في تكوين مفهوم إنترنت الأشياء بجعله للأشياء تتواصل مع بعضها البعض دون تدخل بشري، يمكن استخدام تقنيات إنترنت الأشياء لتنبيه المستخدمين إلى المخاطر البيئية، مثل :زيادة مستويات التلوث في الهواء أو المياه. يمكن استخدام الذكاء الاصطناعي لتحليل هذه البيانات وتوجيه الإشعارات اللازمة للمستخدمين.
+يطرح هذا المشروع فكرة استخدام تقنيات إنترنت الأشياء مع تقنيات الذكاء الاصطناعي في بناء منهجية على منصة إنترنت الأشياء (Thingspeak) وخوارزمية الذكاء الاصطناعي (decision tree)، للحصول على نسبة الملوثات الموجودة في الهواء الجوي والتنبؤ بالأماكن التي يمكن اختيارها في التخطيط الحضري."""@ar ;
+    gpo:enrolledInDepartment gpo:هندسة_البرمجيات ;
+    gpo:isSupervisedBySupervisor gpo:د._حسين_خليل ;
+    gpo:projectName "استخدام تقنية انترنت الأشياء وتقنيات الذكاء الاصطناعي في دراسة تقييم الأثر البيئي" .
+
+gpo:Project_6 a gpo:Project ;
+    gpo:abstract """تنتشر أمراض العظام على نطاق واسع ويمكن أن تسبب مشاكل مختلفة في العضلات والعظام والمفاصل، مما يؤثر على حوالي 1.71 مليار شخص في جميع أنحاء العالم. تشمل المشاكل الشائعة الكسور. وإصابات عنق الفخذ والتهاب المفاصل في الركبة، ويتوقع الخبراء أن تتضاعف هذه المشكلات خلال الثلاثين عاماً القادمة. يعد الكشف المبكر عن الكسور وعلاجها أمراً بالغ الأهمية، لأن الكسور الغير ملحوظة في حالات الطوارئ غالباً ما تؤدي إلى تأخير ومضاعفات في رعاية المرضى.
+في الآونة الأخيرة، اكتسب الذكاء الاصطناعي(AI)، وخاصة التعلم العميق()، اهتماماً كبيراً للمساعدة في اكتشاف الكسور. تتفوق نماذج DL في تحليل الصور الطبية، مما يظهر نتائج واعدة في تشخيص الكسور وأمراض العظام من خلال الأشعة السينية.
+تستخدم هذه الدراسة نموذج DL، ResNet-50، لأتمتة اكتشاف الكسور في صور الأشعة السينية. تم تدريب نموذج ResNet-50 ببنيته المكونة من خمس طبقات وإمكانيات متقدمة لتعلم الميزات، لتحديد أجزاء معينة من العظام (الكوع، واليد، والكتف) واكتشاف الكسور في هذه المناطق.
+باستخدام تقييم مجموعة البيانات بنسبة %72 للتدريب، %18 للاختبار، %10 للصحة، حقق النموذج دقة عالية في الكشف عن الأجزاء بنسبة %99.41، وفي الكشف عن الكسور بلغت الدقة %84.44 للمرفق، %78.87 لليد، و%73.94 للكتف.
+تسلط هذه النتائج الضوء على قدرة النموذج على مساعدة المتخصصين الطبيين في تشخيص الكسور بكفاءة ودقة محسنة.
+
+ 
+"""@ar ;
+    gpo:enrolledInDepartment gpo:هندسة_البرمجيات ;
+    gpo:isSupervisedBySupervisor gpo:أ._أسامة_أبوفناس ;
+    gpo:projectName "BONE FRACTURE DETECTION USING CONVOLUTIONAL NEURAL NETWORK" .
+
+gpo:Project_9 a gpo:Project ;
+    gpo:abstract "يهدف هذا البحث الى بناء نظام يركز بشكل خاص على أداء محركات التعرف البصري على الحروف في اللغة العربية، وذلك من خلال استخدام مشاريع التخرج في كلية تقنية المعلومات كحالة استخدام. و تم استخدام الصور التي تم التقاطها للغلاف الداخلي للمشاريع لإستخراج البيانات وإدراجها في النظام بطريقة مناسبة. يهدف النظام إلى تسهيل عملية البحث عن الطلبة وإظهار النتائج الأكاديمية للكلية وأقسامها. و تم تحديد أداء محركات التعرف البصري على الحروف (OCR Recognition Character Optical( والأنسب للتعرف على النص العربي. ً مفتوحة المصدر على النص العربي لتحديد المحرك الأفضل أداء وتبين أن محرك EasyOCR حقق معدل خطأ بنسبة %11.41 بينما حقق محرك Tesseract معدل خطأ بنسبة .%17.34 يتضمن المشروع تحليل النتائج وتقييم الأداء لكل من المحركين وتوضيح الفروق بينهما. وتوصل الباحثون إلى أن محرك EasyOCR ينتج نتائج أفضل بشكل كبير من محرك Tesseractفي تعرفه على الحروف العربية المطبوعة، ولكنه بطيء جدا ويتطلب وحدة معالجة الرسومات (GPU Unit Processing Graphical(ليتم استخدامه بطريقة فعالة."@ar ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:isSupervisedBySupervisor gpo:أ._سالم_أبودبوس ;
+    gpo:projectName "استخراج البيانات من المستندات باستخدام تقنية التعرف البصري على الحروف" .
+
+gpo:أ._بسمة_محمد_القبي a gpo:Supervisor .
+
+gpo:أ._سالم_أبودبوس a gpo:Supervisor .
+
+gpo:أ._عفيف_أبوغرسة a gpo:Supervisor .
+
+gpo:د._حسين_خليل a gpo:Supervisor .
+
+gpo:د._سالم_السيوي a gpo:Supervisor .
+
+gpo:د._عبدالعظيم_سالم_الجمل a gpo:Supervisor .
+
+gpo:Project_11 a gpo:Project ;
+    gpo:abstract "مع التطور السريع في تكنولوجيا الاتصالات، أصبحت الشبكات الحديثة تعتمد على بروتوكولات التوجيه الديناميكية بدلاً من التوجيه الثابت لتحقيق كفاءة وسرعة في نقل البيانات من بين هذه البروتوكولات يُعتبر OSPF و EIGRP من أكثر البروتوكولات استخداماً داخل الشبكات الداخلية أولاً بروتوكول OSPF يستخدم تقنية حالة الارتباط (Link-State) ويعتمد على خوارزمية Dijkstra لحساب أفضل مسار في الشبكة ثانياً بروتوكول EIGRP يجمع بين تقنيات متجه المسافة (Distance-Vector) وحالة الارتباط، ويستخدم خوارزمية DUAL لتحديد المسارات المثلى، مما يجعله سريعاً في التكيف مع التغيرات داخل الشبكة يُعتبر اختيار البروتوكول المناسب أمراً ضرورياً لضمان أداء قوي أمان مُحسن، في هذا المشروع تمت محاكاة شبكة داخلية باستخدام محاكي الشبكة GNS3 وتحتوي هذه المحاكاة على أربعة سيناريوهات رئيسية سيتم استعراض ومناقشة الأدوات المستخدمة في عمليات التوجيه لتحليل البيانات، أيضاً عرض النتائج المستخلصة من تحليل الشبكتين قيد الدراسة تم تصميم سيناريوهات أو نماذج خاص لشبكتين مختلفتين من حيث الحجم والبروتوكولات المستخدمة في التوجيه حيث تتكون الشبكة من بنية مكونة من طبقتين رئيسيتين الطبقة الأولى (Core Layer) تمثل النواة الأساسية للشبكة والطبقة الثانية (Access Layer) تعمل كواجهة لربط المستخدمين بالشبكة ومن خلال النتائج أظهرت ان EIGRP (IPv4) كان الأسرع في نقل البيانات والأكثر كفاءة مع البيانات الكبيرة، لذلك هو الأفضل للشبكات الكبيرة EIGRP (IPv6) كان أكثر استقراراً واقل فقداً للبيانات، مما يجعله مثالياً للشبكات التي تحتاج استقراراً عالياً OSPF (IPv4) كان جيداً مع البيانات الصغيرة لكنه أقل كفاءة مع البيانات الكبيرة OSPF (IPv6) كان الأضعف من بين الجميع، حيث فقد الكثير من البيانات وكان بطيئاً في الأداء."@ar ;
+    gpo:enrolledInDepartment gpo:الشبكات_والاتصالات ;
+    gpo:isSupervisedBySupervisor gpo:أ._عفيف_أبوغرسة ;
+    gpo:projectName "تحليل مقارنة أداء بروتكولات EIGRP,OSPF " .
+
+gpo:Project_16 a gpo:Project ;
+    gpo:abstract """المكتبة الإلكترونية تمثل تحولاً نوعيًا في إدارة المعرفة، حيث تتيح الوصول السريع إلى مصادر المعلومات بطرق مبتكرة تخدم الأوساط الأكاديمية. ومع تزايد الاعتماد على التعليم عن بُعد والتكنولوجيا الحديثة، أصبحت ضرورة استراتيجية للجامعات، لتوفير بيئة تفاعلية تدعم الابتكار والإبداع.
+في هذا السياق، يهدف مشروع المكتبة الإلكترونية لكلية تقنية المعلومات بجامعة مصراتة إلى تطوير تطبيق رقمي يتيح الوصول السهل إلى الكتب والأبحاث والمشاريع الأكاديمية.
+باستخدام تقنيات حديثة كـ Flutter و Firebase، يقدّم النظام منصة متكاملة تعزز التحول الرقمي وتدعم العملية التعليمية بكفاءة وابتكار
+"""@ar ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:isSupervisedBySupervisor gpo:أ._أيوب_القصير ;
+    gpo:projectName """تطبيق هاتف محمول للمكتبة الإلكترونية
+(كلية تقنية المعلومات نموذجاً)""" .
+
+gpo:Project_17 a gpo:Project ;
+    gpo:abstract """يهدف هذا المشروع إلى إنشاء تطبيق هاتف محمول لتسهيل عملية حجز المواعيد الطبية في العيادة. المشكلة الرئيسية التي يحاول التطبيق معالجتها هي صعوبة الاتصال بالعيادة الطبية والانتظار الطويل للحصول على مواعيد طبية مناسبة. إضافة إلى عدم توفر المعلومات الكافية حول المواعيد المتاحة.
+يتميز التطبيق بتوفير واجهات سهلة الاستخدام تتيح للمرضى البحث عن الأطباء المتاحين، والاطلاع على جدول مواعيدهم، وحجز المواعيد بكل يسر وسرعة.
+من المتوقع أن يساهم التطبيق في تحسين تجربة المرضى وتعزيز الوصول إلى الخدمات الطبية. كما يمكن أن يساهم في تنظيم عملية الحجز الطبي وتقليل الأعباء الإدارية على المستشفى من خلال توفير منصة موحدة للتواصل بين المرضى والأطباء.
+تم تطوير التطبيق باستخدام بيئة العمل Visual Studio Code، ويعتمد على Flutter لبناء واجهات المستخدم بشكل فعال ومتجاوب، بينما تم استخدام لغة Dart لتطوير الوظائف والمنطق البرمجي للتطبيق.
+"""@ar ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:isSupervisedBySupervisor gpo:د._أنور_الهنشيري ;
+    gpo:projectName "تطبيق موبايل لإدارة عيادة" .
+
+gpo:Project_28 a gpo:Project ;
+    gpo:abstract """يهدف هذا المشروع إلى إجراء مقارنة شاملة بين قواعد البيانات العلائقية (Relational Databases) وتقنيات الويب الدلالي (Semantic Web) مثل RDF و OWL، من خلال تطوير تطبيق ويب تعليمي يخدم المراحل الدراسية المختلفة في ليبيا، بدءًا من المرحلة الابتدائية وحتى المرحلة الثانوية. تم تصميم التطبيق ليكون أداة فعالة لتوضيح الفروق الجوهرية بين النموذجين من حيث تخزين البيانات واسترجاعها.
+تم بناء التطبيق استنادًا إلى مبادئ هندسة البرمجيات لضمان تطوير نظام متكامل يتميز بالمرونة، القابلية للتوسع، الموثوقية، وسهولة الاستخدام. ركز المشروع على إنشاء بنية برمجية منظمة لإدارة الكيانات التعليمية (مثل الطلاب، المعلمين، المناهج، والمؤسسات) بكفاءة عالية، مع تخصيص صلاحيات محددة لكل فئة من المستخدمين. كما تم تطبيق معايير الأمان مثل إدارة الصلاحيات وتشفير البيانات لضمان حماية البيانات وسريتها.
+تم استخدام التطبيق لإجراء مقارنة عملية بين النموذجين، حيث أظهرت النتائج أن تقنيات الويب الدلالي توفر مزايا إضافية في تمثيل العلاقات الدلالية بين المفاهيم التعليمية، مما يعزز من قدرة المستخدمين على استرجاع معلومات مترابطة ودقيقة، لا سيما في الاستعلامات المعقدة. في المقابل، أظهرت قواعد البيانات العلائقية أداءً أعلى عند التعامل مع الكميات الكبيرة من البيانات والعمليات التقليدية.
+ساهم المشروع في تقديم منصة تعليمية مرنة وقابلة للتطوير، مع إمكانية توسيع وظائفها مستقبلاً لتشمل تقنيات متقدمة مثل الذكاء الاصطناعي لتخصيص المحتوى التعليمي، دعم اللغات المتعددة، والتكامل مع أنظمة تعليمية أخرى، مما يجعلها قادرة على تلبية احتياجات التعليم الحديث بفعالية.
+"""@ar ;
+    gpo:enrolledInDepartment gpo:هندسة_البرمجيات ;
+    gpo:isSupervisedBySupervisor gpo:د._عبدالعظيم_سالم_الجمل ;
+    gpo:projectName "مقارنة بين قواعد البيانات العلائقية وتقنيات الويب الدلالي في تطبيقات التعليم الرقمي" .
+
+gpo:Project_29 a gpo:Project ;
+    gpo:abstract """تعد السياحة من القطاعات الاقتصادية المهمة في القرن الحالي، حيث تحضى في الوقت الحاضر باهتمام كبير من قبل العديد من دول العالم المتقدمة والنامية ، فهي تمثل مورداً اقتصادياً مهماً وأساسياً للدول، وبخاصة التي تتميز بمحدودية الموارد، فالقطاع السياحي كأي قطاع آخر ، جزءاً لا يتجزأ من الاقتصاد القومي ، له دوره الفعلي في تكوين الناتج القومي ( الدخل القومي ) ويختلف هذا الدور بحسب حجم وأهمية القطاع السياحي في الاقتصاد القومي ، وتمتاز صناعة السياحة بقدرتها الفائقة والخاصة على بعث سلسلة من العمليات والنشاطات الإنتاجية والاستثمارية في الاقتصاد القومي ؛ بسبب امتداد آثار الطلب السياحي المعقدة والمركبة من العديد من السلع والخدمات إلى كافة القطاعات الرئيسة منها والثانوية.
+يعمل هذا المشروع على بناء نظام معلوماتي سياحي (تطبيق هاتف) حيث يقوم بعرض المعالم السياحية بدولة ليبيا للتسهيل على الزائرين معرفة وزيارة الأماكن السياحية دون الحاجة إلى البحث عن كل موقع على حدى أو طلب المساعدة من أجل الوصول إلى المواقع والتسهيل على الزائر استكشاف الموقع المطلوب بديلا عن الأساليب التقليدية مثل الخرائط الورقية أو المرشد السياحي ، حيث يحتوي هذا التطبيق على مجموعة من أشهر المواقع التاريخية والترفيهية الموجودة بداخل ليبيا.
+سيتم بين دفتي هذا المجلد شرح دورة حياة النظام والمراحل التي مر بها ابتداء بالدراسة التمهيدية مرورا بالتحليل ثم التصميم وأخيرا وليس آخرا بالتنفيذ والذي تم باستخدام إطار عمل (Flutter) وقاعدة بيانات (Firebase) مع مزود الخرائط (Map box).
+"""@ar ;
+    gpo:enrolledInDepartment gpo:نظم_المعلومات ;
+    gpo:isSupervisedBySupervisor gpo:أ._بسمة_محمد_القبي ;
+    gpo:projectName "تطبيق دليل ليبيا سياحي" .
+
+gpo:Project_3 a gpo:Project ;
+    gpo:abstract "تم في هذا المشروع استخدام تقنيات Power BI لتحليل البيانات الخاصة بالمدارس الأساسية والثانوية في مدينة مصراتة، ومن أبرز ما يميز هذا المشروع هو إنشاء لوحات تحكم تفاعلية في Power BI لمساعدة متخذي القرار وهذه اللوحات التفاعلية تتميز بالبساطة والوضوح في العرض، مما يسهل على المستخدم استكشاف البيانات والحصول على الرؤى بشكل سريع وفعال. كما يميز البرنامج المستخدم في المشروع بالسرعة وسهولة استخدامه ولا يحتاج ﻷجهزة ذات مواصفات عالية لتشغيله، بالإضافة إلى ذلك هذا التصميم يعزز قدرة متخذي القرار على استكشاف البيانات بفعالية وتحديد التوجهات والأنماط المهمة، كما تم في هذا المشروع تحقيق عدة أهداف من أهمها، التعرف على مدى جودة استخدام Power Bi في تحليل البيانات ومساعدة موظفي قسم نظم المعلومات الجغرافية في تحليل البيانات المكانية بشكل أكثر فعالية، وأيضا تقديم تصاميم تفاعلية وسهلة الفهم للمساعدة في اتخاذ قرارات مستدامة ومبينة على البيانات، ومن أهم النتائج التي تم التحصل عليها ضمن هذا المشروع والتي ستفيد في تحليل البيانات، أن مخرجات Power BI تفاعلية وسهلة الفهم والقراءة وكذلك يسهل التعامل معها وبها مرونة في العرض وقدرة كبيرة على توضيح النتائج والإحصائيات."@ar ;
+    gpo:enrolledInDepartment gpo:نظم_المعلومات ;
+    gpo:isSupervisedBySupervisor gpo:د._علي_باكير ;
+    gpo:projectName "تطبيق تقنيات Power BI المتقدمة لتحليل التوزيعات المكانية والنماذج المكانية" .
+
+gpo:Project_32 a gpo:Project ;
+    gpo:abstract "تم في هذا المشروع تصميم وتنفيذ نظام قادر على تصنيف الأوامر الصوتية وتحديدها، حيث تم جمع مجموعة من البيانات (الأوامر)، تتكون البيانات من 4 كلمات تم تسجيلها في صوتيات امتدادها (wav) في ظل ظروف مختلفة ومن شخصيات مختلفة حتى تم تدريب النظام على الكلمات دون النظر إلى ميزات الصوت، ومن ثم استخدام التحويل الموجي (DWT)، لاستخلاص الميزات ثم ضغطها عن طريق تحويل جيب التمام (DCT)، وبالتالي تم حساب بعض المعلومات المهمة من خلال المصفوفة الظاهرة (Graycomatrix)، كما تم استخدام (SVM) للتمييز بين الأوامر الصوتية وتصنيفها، تم برمجة العمل باستخدام برنامج الماتلاب وأيضا تم حساب دقة النظام عن طريق الدقة ثم حساب نسبة الدقة لتحدد مدى الوثوق في النظام و 87.5% هي نسبة كافية لقياس دقة النظام ."@ar ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:isSupervisedBySupervisor gpo:د._مصطفى_أبوزريدة ;
+    gpo:projectName "التعرف على الكلام باستخدام التحويل الموجي المتقطع DWT وآلة المتجه الداعم SVM" .
+
+gpo:Project_38 a gpo:Project ;
+    gpo:abstract """تعد تقنية المعلومات من أكثر المجالات انتشارًا وتطورًا في العالم الحديث، وقد أدّت التطورات المتسارعة في هذا المجال إلى تغيير جذري في طريقة العمل والتعامل والتفاعل بين الأفراد والمؤسسات والحكومات، ويمكن استخدام تقنية المعلومات في مختلف المجالات، مثل الأعمال التجارية والتعليم والطب والعلوم والحكومة والصحة والترفيه وغيرها
+الهدف من هذا المشروع تصميم نظام يهتم بشؤون خدمات الطلاب يمكنهم فيه الاستعلام عن المقررات والمستوى الأكاديمي، وبعض النماذج الإدارية ليسهل الوصول إلى بياناتهم.\r
+ومن خلال تنفيذ المشروع باستخدام تقنيات لغة C#، وقواعد بيانات SQL، تم إنشاء النظام المقترح ومن خلاله تمت عملية إدارة العمليات التي يقوم بها النظام.\r
+
+.
+"""@ar ;
+    gpo:enrolledInDepartment gpo:هندسة_البرمجيات ;
+    gpo:isSupervisedBySupervisor gpo:د._أبوبكر_محمد_البيوضي ;
+    gpo:projectName "نظام لاستعلام الطلاب بكلية تقنية المعلومات -جامعة مصراته" .
+
+gpo:Project_41 a gpo:Project ;
+    gpo:abstract """عنوان الدراسة: تخطيط موارد المؤسسة باستخدام منصة (ERP)، هدفت هذه الدراسة إلى قياس تأثير تكنولوجيا المعلومات في تحسين نظم الموارد الصحية وكان مجتمع الدراسة هو موظفي وإداريين المستشفيات والمراكز الصحية التالية (مستشفى الجزيرة ، مستشفى الصفوة ، مستشفى اسبيتار ) وتم اختيار عينه عشوائية من مجتمع الدراسة (أداره المستشفيات المذكورة أعلاه ) وللتحقق من ذلك تم توزيع استبيان لغرض جمع المعلومات الخاصة بالدراسة الميدانية.
+تكونت عينة البحث الحالي من عدد (130) موظفاً تم اختيارهم بطريقة عشوائية من العاملين في (مستشفى الجزيرة ، الصفوة ، اسبتار ) وتم أجراء التحليل الإحصائي المتحصل عليه من برنامج (spss
+توصلت الدراسة إلى نتائج إيجابيه في هذا المجال ونوصي الباحثين بدراسة متغيرات أخرى مرتبطة بدور تكنولوجيا المعلومات والتركيز على المشاكل التي تواجه المستشفيات من ناحية الأنظمة القديمة."""@ar ;
+    gpo:enrolledInDepartment gpo:نظم_المعلومات ;
+    gpo:isSupervisedBySupervisor gpo:أ._المهدي_امحمد_جبريل ;
+    gpo:projectName "تخطيط موارد المؤسسة باستخدام منصة (ERP)" .
+
+gpo:Project_42 a gpo:Project ;
+    gpo:abstract """في عصرنا الرقمي المتسارع، حيث الأجهزة الإلكترونية باتت جزءًا لا يتجزأ من حياتنا اليومية، ازداد معدل الإصابة بأمراض العيون بشكل ملحوظ. إن التطور السريع في مجال التقنية قد أدى إلى تحديات صحية جديدة، حيث أصبحت سلامة وصحة أعيننا في خطر. ومع التطور في مجال الذكاء الاصطناعي ازداد الاهتمام بالأبحاث من أجل إنتاج أنظمة ذكية لتشخيص أمراض العيون. 
+تم في بحثنا تصميم نموذج من أجل تشخيص حالة العين إلى طبيعية أو تعاني من اعتلال الشبكية السكري، سيعمل بمثابة مساعد ذكي للأطباء المختصين، يعزز من قدراتهم التشخيصية ويساعدهم في تقديم رعاية صحية أفضل للمرضى. وسيظل الطبيب هو صاحب القرار النهائي والمسؤول عن خطة العلاج.
+قمنا بدراسة هيكلية النموذج المقترح، ونماذج شائعة عالميًا في مجال الذكاء الاصطناعي والتعلم العميق. وتم التركيز في البحث على دقة التشخيص والتي يعمل النموذج المقترح إلى تصنيفها إلى فئتين بناء على صورة شبكية العين المدخلة. وبعد القيام بدراسة مرجعية لطرق معاجلة البيانات تم اقتراح تغيير حجم الصورة مع إبقاء الصورة على نظام RGB هذا يوفر معلومات غنية عن الطيف اللوني للصورة، مما يساعد في استخراج الميزات المهمة خلال التحليل. والاعتماد على خوارزميات التعلم العميق في تصنيفيها. جرى الاعتماد على قاعدة البيانات من موقع Kaggle، وبعد دراسة النماذج المختلفة تم اختيار نموذج VGGو AlexNet لغرض مقارنتهم مع النموذج المقرح وتطبيق خوارزميات العمل المختلفة وتمكن النموذج المقترح من تصنيف صورة شبكية العين المدخلة بكفاءة عالية مقارنة بنموذج AlexNet، ويبقى نموذج VGG هو النموذج الأفضل في تشخيص أمراض العيون بكفاءة عالية وبدقة تصنيف 84% باستخدام الشبكات العصبونية التلافيفية CNN.
+"""@ar ;
+    gpo:enrolledInDepartment gpo:نظم_الإنترنت ;
+    gpo:isSupervisedBySupervisor gpo:أ._يوسف_عبدالرحمن_ابوراوي ;
+    gpo:projectName "تشخيص أمراض العيون باستخدام تقنية التعلم العميق (اعتلال الشبكية السكري)" .
+
+gpo:Project_50 a gpo:Project ;
+    gpo:abstract """يتناول هذا البحث تطوير خدمات إلكترونية لوزارة الشؤون الاجتماعية في فرع مصراتة. يهدف البحث إلى رقمنة العديد من الخدمات التقليدية وتحسين كفاءة وفاعلية العمل. يتناول البحث تحليل الوضع الراهن،حيث تم عمل استبيان إلكتروني للمواطنين لمعرفة المشاكل التي يواجهونها، وتم عمل مقابلة شخصية مع مدير وزارة الشؤون الاجتماعية-فرع مصراتة، بناءاً على البيانات التي تم جمعها، تم تحديد متطلبات المستخدمين، وتصميم وتنفيذ النظام، سيؤدي ذلك إلى تسهيل الوصول للمعلومات وتحسين جودة الخدمات المقدمة للمواطنين. كما سيتميز النظام بسهولة الاستخدام وتوفير تجربة مستخدم فعالة. كما سيضمن آليات تكامل وربط البيانات مع الأنظمة الأخرى للوزارة لتحسين إدارة الموارد وسرعة اتخاذ القرارات.
+المشروع سيُساهم بشكل كبير في توفير خدمات أكثر كفاءة وفاعلية للمستفيدين، وتحسين إجراءات العمل داخل الوزارة."""@ar ;
+    gpo:enrolledInDepartment gpo:نظم_المعلومات ;
+    gpo:isSupervisedBySupervisor gpo:أ._إبتسام_محمد_أبوجناح ;
+    gpo:projectName "موقع إلكتروني لوزارة الشؤون الإجتماعية_ فرع مصراتة" .
+
+gpo:Project_51 a gpo:Project ;
+    gpo:abstract """يحتوي تطبيق تفاعلي على سلسلة من الدروس السمعية والبصرية، تم تصميمها وتطويرها بعناية فائقة لتتوافق مع الكتاب المدرسي المعتمد للعام الدراسي الحالي (2024/2023). تضم هذه الدروس شخصيات جذابة ورسومات توضيحية ومحتوى علميًا غنيًا، مما يخلق بيئة تعليمية مألوفة وممتعة للتلاميذ.
+لتطوير هذا التطبيق، تم استخدام مجموعة من أدوات تحرير وبناء أنظمة الوسائط المتعددة، مثل أدوبي أنيميت (Adobe Animate) لتحرير المؤثرات البصرية، وأدوبي فوتوشوب (Adobe Photoshop) لتحرير الرسومات، وبرنامج فورمات (Format Factory) لتحويل صيغ الملفات المختلفة، وأدوبي أوديشن (Adobe Audition) لمعالجة الصوت المسجل، بالإضافة إلى لغة البرمجة أكشن سكريبت (Action Script 3.0).
+بعد الانتهاء من تطوير التطبيق، تم اختباره بطريقة علمية. تم تقسيم تلاميذ الصف السادس الابتدائي بمدرسة المعرفة في مدينة مصراتة إلى مجموعتين: تقليدية وتجريبية. تلقت المجموعة التجريبية تعليمها باستخدام التطبيق، بينما تلقت المجموعة التقليدية تعليمها بالطرق المعتادة. أظهرت نتائج الاختبارات تفوقًا ملحوظًا للمجموعة التجريبية، حيث تراوحت درجاتهم بين جيد جدًا وممتاز، بينما تراوحت درجات المجموعة التقليدية بين مقبول وجيد جدًا.
+"""@ar ;
+    gpo:enrolledInDepartment gpo:الوسائط_المتعددة ;
+    gpo:isSupervisedBySupervisor gpo:أ._مروة_إسماعيل_الضراط ;
+    gpo:projectName "تصميم برنامج بالوسائط المتعددة يُحسن تحصيل تلاميذ الصف السادس في مادة العلوم ودراسة فاعليته" .
+
+gpo:Project_7 a gpo:Project ;
+    gpo:abstract """يهدف هذا المشروع إلى تطبيق تقنية (Multiprotocol Label Switching-TrafficEngineering) MPLS-TE لتحسين أداء الشبكة من خلال إنشاء أنفاق ديناميكية ومخصصة لتوجيه حركة البيانات. تم التركيز على تحسين جودة الخدمة (QoS) من خلال تقليل (Jitter)، وضمان استقرار النطاق الترددي (Bandwidth)، وتقليل فقد الحزم (Packet Loss).
+تم تصميم بيئة الاختبار باستخدام بروتوكول RSVP_TE لإنشاء الأنفاق وضبط إعداداتها بما يشمل النطاق الترددي، والأولوية، والمسارات المحددة. كما تم تطبيق التوجيه المبني على القيود (Constraint-Based Routing) لاختيار المسارات الأنسب التي تلبي متطلبات الشبكة. كما استخدمت أداة iperf3 لتحليل أداء الشبكة وقياس المؤشرات الأساسية التي تم التركيز عليها.
+وتؤكد نتائج المشروع فعالية تقنية MPLS-TE في تحسين استغلال موارد الشبكة وضمان جودة الخدمة، مما يجعلها خياراً مناسباً للتطبيقات الحساسة للزمن، مثل الصوت والفيديو.
+"""@ar ;
+    gpo:enrolledInDepartment gpo:الشبكات_والاتصالات ;
+    gpo:isSupervisedBySupervisor gpo:أ._بشير_ميلاد_الخراز ;
+    gpo:projectName """Traffic Engineering
+مقارنة من حيث الأداء مع الشبكات التقليدية""" .
+
+gpo:Project_8 a gpo:Project ;
+    gpo:abstract """يمثل الكم الهائل والمتزايد باستمرار من الأدبيات الأكاديمية تحدياً كبيراً للباحثين العرب، ولا سيما طلاب الدراسات العليا والباحثين الذين يحتاجون إلى أساليب فعالة للتنقل في بحر المعلومات. يقترح هذا العكل حلاً وهو: نموذج استخراجي لتلخيص النصوص العربية مصمم خصيصاً لمواجهة الأبحاث العلمية.
+يسلم هذا البحث بالتعقيدات الجوهرية للغة العربية، بما في ذلك علم الصرف، وقد حد هذا التعقيد من الجهود المبذولة في تقاطع اللغة العربية ونماذج الذكاء الاصطناعي تاريخياً. وبالتالي، فإن إثراء البحث العربي هو أحد أهدافنا في هذا المشروع.
+لمواجهة تحدي الكم الهائل من المعلومات، سنقوم ببناء مجموعة بيانات من ملخصات الأبحاث العلمية. سيتم إنشاء هذه المجموعة من خلال استخراج الملخصات والنتائج من الأبحاث العلمية الحالية. ثم سيقوم خبراء في التخصص بتلخيص هذه الأقسام يدوياً لتوفير بيانات تدريب عالية الجودة لنموذجنا.
+غالبًا ما الضبط الدقيق لنماذج اللغات الكبيرة مثل AraBERT لمهام التلخيص الاستخراجي موارد حسابية كبيرة ويمكن أن يكون مكلفاً من الناحية الحسابية. لمواجهة هذا التحدي، نستكشف فعالية الضبط الدقيق لكفاءة المعلمة (PEFT) مع LoRA لضبط AraBERT. تبحث دراستنا في تأثير التباين في المعلمات التشغيلية، بما في ذلك العصور، وطول المقطع، وتكوينات LoRA على أداء AraBERT في مهام التلخيص الاستخراجي. تُظهر النتائج أن PEFT مع LoRA تحقق أداءً مماثلاً لطرق الضبط الدقيق التقليدية، حيث أن نتيجة الدقة في ال PEFT مع ال LoRA هي 0.63 أما نتيجة الدقة للضبط الدقيق التقليدي هي 0.64. مع تقليل كبير في التكلفة الحسابية ومتطلبات الموارد. توضح نتائجنا إمكانية PEFT مع LoRA كنهج واعد للضبط الدقيق الفعال لنماذج اللغات الكبيرة، مما يتيح تطويراً أسرع وأكثر استدامة لتطبيقات معالجة اللغات الطبيعية.
+يهدف المشروع إلى تمكين الباحثين العرب من خلال تزويدهم بأداة لمعالجة الكم الهائل من الأدبيات الأكاديمية بكفاءة. سيؤدي ذلك إلى جهود بحثية أسرع وأكثر إنتاجية، مما يساهم في النهاية في إثراء مجال البحث العربي.
+"""@ar ;
+    gpo:enrolledInDepartment gpo:علوم_الحاسوب ;
+    gpo:isSupervisedBySupervisor gpo:أ.د._أحمد_أبوشعالة ;
+    gpo:projectName "Arabic research paper summarization using AraBert Model " .
+
+gpo:أ._يوسف_عبدالرحمن_ابوراوي a gpo:Supervisor .
+
+gpo:د._مصطفى_أبوزريدة a gpo:Supervisor .
+
+gpo:الشبكات_والاتصالات a gpo:Department .
+
+gpo:الوسائط_المتعددة a gpo:Department .
+
+gpo:نظم_المعلومات a gpo:Department .
+
+gpo:هندسة_البرمجيات a gpo:Department .
+
+gpo:علوم_الحاسوب a gpo:Department .
+
+gpo:نظم_الإنترنت a gpo:Department .
+
